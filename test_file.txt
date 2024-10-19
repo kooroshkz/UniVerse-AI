@@ -1,2 +1,0 @@
-cañas = fishing rod; 
-hence Diego cañas = A cow
