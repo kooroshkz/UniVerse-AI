@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chatbot</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f0f0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+        }
+        #chatbox {
+            width: 400px;
+            height: 500px;
+            background-color: #fff;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            display: flex;
+            flex-direction: column;
+            overflow: hidden;
+        }
+        #messages {
+            flex: 1;
+            padding: 20px;
+            overflow-y: auto;
+        }
+        .message {
+            margin-bottom: 10px;
+            padding: 10px;
+            border-radius: 5px;
+        }
+        .user {
+            background-color: #d1e7dd;
+            text-align: right;
+        }
+        .bot {
+            background-color: #cfe2f3;
+        }
+        #input-box {
+            display: flex;
+            border-top: 1px solid #ddd;
+        }
+        #input-box input {
+            flex: 1;
+            padding: 10px;
+            border: none;
+            border-radius: 0 0 0 10px;
+            outline: none;
+        }
+        #input-box button {
+            padding: 10px;
+            border: none;
+            background-color: #007bff;
+            color: #fff;
+            cursor: pointer;
+            border-radius: 0 0 10px 0;
+        }
+        #input-box button:hover {
+            background-color: #0056b3;
+        }
+    </style>
+</head>
+<body>
+    <div id="chatbox">
+        <div id="messages">
+            <div class="message bot">Hello! I'm your chatbot. Type something below!</div>
+        </div>
+        <div id="input-box">
+            <input type="text" id="user-input" placeholder="Type a message...">
+            <button onclick="sendMessage()">Send</button>
+        </div>
+    </div>
+
+    <script>
+        function sendMessage() {
+            const inputBox = document.getElementById('user-input');
+            const userInput = inputBox.value.trim();
+            if (userInput) {
+                displayMessage(userInput, 'user');
+                setTimeout(() => {
+                    const response = `Interesting input: ${userInput}`;
+                    displayMessage(response, 'bot');
+                }, 500);
+                inputBox.value = '';
+            }
+        }
+
+        function displayMessage(text, type) {
+            const messagesDiv = document.getElementById('messages');
+            const messageDiv = document.createElement('div');
+            messageDiv.className = `message ${type}`;
+            messageDiv.textContent = text;
+            messagesDiv.appendChild(messageDiv);
+            messagesDiv.scrollTop = messagesDiv.scrollHeight;
+        }
+    </script>
+</body>
+</html>
+
