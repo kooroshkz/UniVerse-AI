@@ -14,6 +14,9 @@ Role:
 ##### Kacper
 
 ##### Emmanouil
+Role:
+
+- Backend Development
 
 ##### Duru
 
