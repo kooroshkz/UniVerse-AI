@@ -14,7 +14,7 @@ Role:
 ##### Kacper
 Role:
 
-- Api data extractor
+- Api Data Extractor
 
 ##### Emmanouil
 Role:
