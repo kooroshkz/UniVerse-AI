@@ -22,6 +22,9 @@ Role:
 - Backend Development
 
 ##### Duru
+Role:
+
+- Web Scraping Developer
 
 ##### Melisa
 
