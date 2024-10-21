@@ -12,6 +12,9 @@ Role:
 ##### Diego
 
 ##### Kacper
+Role:
+
+- Api data extractor
 
 ##### Emmanouil
 Role:
