@@ -27,7 +27,9 @@ Role:
 - Web Scraping Developer
 
 ##### Melisa
+Role:
 
+- Front-End Developer
 ---
 
 ## Getting started
