@@ -1,70 +1,69 @@
-/* Chat Header (Logo on top) */
+
 #chat-header {
     text-align: center;
-    margin-bottom: 10px; /* Adjust the gap below the image */
+    margin-bottom: 10px; 
 }
 
 .chat-logo {
-    max-width: 80px;  /* Adjusted size for the logo */
+    max-width: 80px;  
     display: block;
     margin: 0 auto;
 }
 
-/* General Title Styling (Now below the logo) */
+
 #main-title {
     text-align: center;
-    font-size: 24px; /* Smaller font size for the title */
-    color: #001f3f; /* Navy Blue */
-    margin-bottom: 20px; /* Space below the title */
+    font-size: 24px; 
+    color: #001f3f; 
+    margin-bottom: 20px; 
 }
 
-/* Chatbox Styling */
+
 #chatbox {
-    width: 500px;    /* Chatbox size remains */
+    width: 500px;   
     height: 550px;
-    background-color: #104e8b;  /* Cobalt Blue background for the main chat area */
+    background-color: #104e8b;  
     border-radius: 10px;
-    border: 2px solid #191970;  /* Single border with color #191970 */
+    border: 2px solid #191970;  
     display: flex;
     flex-direction: column;
     justify-content: space-between;
-    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2); /* Light shadow for appeal */
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2); 
     margin: 0 auto;
     padding: 4px;
 }
 
-/* Messages Area */
+
 #messages {
     flex: 1;
     padding: 15px;
     overflow-y: auto;
-    background-color: #bcd2ee; /* Lighter Blue for message area background */
+    background-color: #bcd2ee; 
     border-radius: 5px;
     box-shadow: inset 0 2px 5px rgba(0, 0, 0, 0.1);
 }
 
-/* Message Styles for User and Bot */
 .message {
     padding: 10px;
     margin: 5px 0;
     border-radius: 8px;
-    max-width: 70%;  /* Reduce the width to 70% to make it smaller */
+    max-width: 70%;  
     font-size: 16px;
     line-height: 1.4;
 }
 
 .message.bot {
-    background-color: #a2b5cd; /* Softer Blue for bot messages */
-    color: black;
-    align-self: flex-start;  /* Bot messages aligned to the left */
+    background-color: #27408b; 
+    color: white;
+    align-self: flex-start; 
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15);
 }
 
 .message.user {
-    background-color: #f0f8ff; /* Royal Blue for user messages */
+    background-color: #f0f8ff; 
     color: black;
-    align-self: flex-end;  /* Align the user message to the right */
-    margin-left: auto; /* Ensure proper spacing from the left side */
+    align-self: flex-end;  
+    margin-left: auto; 
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15);
 }
 
@@ -72,12 +71,12 @@
 #input-box {
     display: flex;
     padding: 10px;
-    background-color: #cae1ff; /* Light background for input area */
-    border-top: 2px solid #001f3f; /* Navy blue border for the input area */
+    background-color: #cae1ff;
+    border-top: 2px solid #001f3f; 
     border-radius: 5px;
 }
 
-/* Input Field */
+
 #user-input {
     flex: 1;
     padding: 10px;
@@ -88,9 +87,9 @@
     border-radius: 5px;
 }
 
-/* Send Button */
+
 #input-box button {
-    background-color: #001f3f; /* Navy blue button */
+    background-color: #001f3f; 
     color: white;
     border: none;
     padding: 10px 15px;
@@ -102,6 +101,6 @@
 }
 
 #input-box button:hover {
-    background-color: #003366; /* Darker navy on hover */
+    background-color: #003366; 
 }
 
