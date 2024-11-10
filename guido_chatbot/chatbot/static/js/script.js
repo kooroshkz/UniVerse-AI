@@ -1,21 +1,14 @@
 const $messages = $('.messages-content');
-let m, i = 0;
-
-const fakeMessages = [
-  'Hello, how can I assist you today?',
-  'Fetching contact information for university staff...',
-  'Found the email for Guilherme Perin: guilherme.perin@universiteitleiden.nl',
-  'The latest update in your MyTimetable is: "AI lecture moved to Room 1.15 on October 27th."',
-  'Would you like me to add this update to your personal schedule?',
-  'I can help you with scraping more staff profiles or checking new updates. What would you like to do next?',
-  'Goodbye! If you need further assistance, just let me know.',
-  ':)'
-];
+let m;
 
 $(window).on('load', () => {
   $messages.mCustomScrollbar();
-  setTimeout(fakeMessage, 100);
 });
+
+// Function to get CSRF token
+function getCSRFToken() {
+  return document.querySelector('[name=csrfmiddlewaretoken]').value;
+}
 
 function updateScrollbar() {
   $messages.mCustomScrollbar("update").mCustomScrollbar('scrollTo', 'bottom', {
@@ -41,9 +34,27 @@ function insertMessage() {
   $('.message-input').val(null);
   updateScrollbar();
 
-  setTimeout(fakeMessage, 1000 + Math.random() * 2000);
+  // Send message to Django backend for OpenAI API processing
+  $.ajax({
+    type: 'POST',
+    url: '/chatbot_response/',  // URL should match your Django URL configuration
+    data: {
+      message: msg,
+      csrfmiddlewaretoken: getCSRFToken()  // Include CSRF token
+    },
+    success: function(data) {
+      $('<div class="message new">' + data.response + '</div>').appendTo($('.mCSB_container')).addClass('new');
+      setDate();
+      updateScrollbar();
+    },
+    error: function() {
+      $('<div class="message new">Error: Could not process your request at the moment.</div>').appendTo($('.mCSB_container')).addClass('new');
+      updateScrollbar();
+    }
+  });
 }
 
+// Event listeners for sending messages
 $('.message-submit').on('click', insertMessage);
 $(window).on('keydown', (e) => {
   if (e.which === 13) {
@@ -51,18 +62,3 @@ $(window).on('keydown', (e) => {
     return false;
   }
 });
-
-function fakeMessage() {
-  if ($('.message-input').val() !== '') return;
-
-  $('<div class="message loading new"><span></span></div>').appendTo($('.mCSB_container'));
-  updateScrollbar();
-
-  setTimeout(() => {
-    $('.message.loading').remove();
-    $('<div class="message new">' + fakeMessages[i] + '</div>').appendTo($('.mCSB_container')).addClass('new');
-    setDate();
-    updateScrollbar();
-    i = (i + 1) % fakeMessages.length;
-  }, 1000 + Math.random() * 2000);
-}
