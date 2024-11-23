@@ -1,0 +1,712 @@
+Name,Role,Email,Phone,Address,Tags
+Joost Batenburg,Professor Computer science,k.j.batenburg@liacs.leidenuniv.nl,+31 71 527 6985,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BE4.08,"algebra, artificial intelligence, computational drug design, computational imaging, geometry, number theory, tomography"
+Frank de Boer,Professor emeritus Software Correctness,f.s.de.boer@liacs.leidenuniv.nl,+31 71 527 2727,,
+Marcello Bonsangue,Scientific Director / Professor Computer Science,m.m.bonsangue@liacs.leidenuniv.nl,+31 71 527 7095,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BE3.11,"algorithms, coordination language, formal methods, program verification, theory of computing"
+Thomas Bäck,Professor of Natural Computing,t.h.w.baeck@liacs.leidenuniv.nl,+31 71 527 7108,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BE4.27,"artificial intelligence, evolutionary computation, explainable artificial intelligence, health, machine learning, multiple criteria decision making, optimization, predictive maintenance, smart industry, sustainable production"
+Ed Deprettere,Professor emeritus of Information technology,e.f.a.deprettere@liacs.leidenuniv.nl,+31 71 527 4799,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,
+Vedran Dunjko,Professor in Quantum Computing,v.dunjko@liacs.leidenuniv.nl,+31 71 527 2873,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BE2.01,
+Bas Haring,Professor Public Understanding of Science,s.haring@liacs.leidenuniv.nl,+31 71 527 7033,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,
+Holger Hoos,Professor of Machine Learning,h.h.hoos@liacs.leidenuniv.nl,+31 71 527 5777,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BM4.11,"artificial intelligence, computer science"
+Simcha Jong Kon Chin,Professor of Science-based business,s.jong@liacs.leidenuniv.nl,+31 71 527 7201,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,"entrepreneurship, global health, global r&d networks, healthcare management, international scientific consortia, precision medicine, science based business, technology management, technology transfer"
+Catholijn Jonker,Professor/Guest,c.m.jonker@liacs.leidenuniv.nl,+31 71 527 7115,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,artificial intelligence
+Jetty Kleijn,Professor Emeritus Theoretical Computing Science,h.c.m.kleijn@liacs.leidenuniv.nl,+31 71 527 2727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BM2.09,
+Wessel Kraaij,Professor of Applied data analytics,w.kraaij@liacs.leidenuniv.nl,+31 71 527 5778,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BE2.09,"artificial intelligence, computer science, data analytics, data science, information retrieval"
+Michael Lew,Professor Deep Learning,m.s.lew@liacs.leidenuniv.nl,+31 71 527 7034,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BE4.06,"artificial intelligence, computer vision, deep learning, machine learning, multi modal learning"
+Stefan Manegold,Professor Computer science,s.manegold@liacs.leidenuniv.nl,+31 71 527 4799,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,
+Nele Mentens,Professor Computer Science,n.mentens@liacs.leidenuniv.nl,+31 71 527 4799,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BM3.01,"artificial intelligence, cryptography, cyber security"
+Rob van Nieuwpoort,Professor Efficient Computing and eScience,r.v.van.nieuwpoort@liacs.leidenuniv.nl,,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BW3.06,
+Alexander Ollongren,Professor emeritus of Computer science,a.ollongren@liacs.leidenuniv.nl,+31 71 527 4799,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,
+Aske Plaat,Professor of Data science,a.plaat@liacs.leidenuniv.nl,+31 71 527 7065,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BE4.21,"artificial intelligence, big data, causality, computer science, data science, deep learning, deep reinforcement learning, explainable artificial intelligence, games, machine learning, multi-agent systems, reinforcement learning"
+Grzegorz Rozenberg,Professor emeritus of Theoretical computer science,g.rozenberg@liacs.leidenuniv.nl,+31 71 527 7067,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BM2.05,
+Marco Spruit,Professor Advanced Data Science in Population Health,m.r.spruit@lumc.nl,+31 71 526 9111,Wijnhaven Turfmarkt 99 2511 DP The Hague Room number 3.20a,
+Fons Verbeek,Professor of Computational Bio-imaging,f.j.verbeek@liacs.leidenuniv.nl,+31 71 527 5773,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BE3.27,"artificial intelligence, bio imaging, deep learning, image processing, machine learning, microscopy, virtual reality, visualisation"
+Suzan Verberne,Professor Computer Science,s.verberne@liacs.leidenuniv.nl,+31 71 527 7043,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BE221,"artificial intelligence, information retrieval, natural language processing"
+Joost Visser,Professor Large Scale Software and Data Science,j.m.w.visser@liacs.leidenuniv.nl,+31 71 527 2727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BE2.26,"agile software development, data science, software engineering, software measurement, software quality"
+Mitra Baratchi,Associate professor,m.baratchi@liacs.leidenuniv.nl,+31 71 527 7492,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BM4.09,artificial intelligence
+Henning Basold,Assistant professor,h.basold@liacs.leidenuniv.nl,+31 71 527 6435,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BM2.11,
+Arianna Bisazza,Assistant Professor / guest,a.bisazza@liacs.leidenuniv.nl,+31 71 527 4799,,
+Joost Broekens,Associate Professor,d.j.broekens@liacs.leidenuniv.nl,+31 71 527 7139,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BE3.04,artificial intelligence
+Lu Cao,Assistant Professor,l.cao@liacs.leidenuniv.nl,+31 71 527 8921,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BE3.20,artificial intelligence
+Joost Batenburg,Professor Computer science,k.j.batenburg@liacs.leidenuniv.nl,+31 71 527 6985,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BE4.08,"algebra, artificial intelligence, computational drug design, computational imaging, geometry, number theory, tomography"
+Frank de Boer,Professor emeritus Software Correctness,f.s.de.boer@liacs.leidenuniv.nl,+31 71 527 2727,,
+Marcello Bonsangue,Scientific Director / Professor Computer Science,m.m.bonsangue@liacs.leidenuniv.nl,+31 71 527 7095,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BE3.11,"algorithms, coordination language, formal methods, program verification, theory of computing"
+Thomas Bäck,Professor of Natural Computing,t.h.w.baeck@liacs.leidenuniv.nl,+31 71 527 7108,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BE4.27,"artificial intelligence, evolutionary computation, explainable artificial intelligence, health, machine learning, multiple criteria decision making, optimization, predictive maintenance, smart industry, sustainable production"
+Ed Deprettere,Professor emeritus of Information technology,e.f.a.deprettere@liacs.leidenuniv.nl,+31 71 527 4799,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,
+Vedran Dunjko,Professor in Quantum Computing,v.dunjko@liacs.leidenuniv.nl,+31 71 527 2873,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BE2.01,
+Bas Haring,Professor Public Understanding of Science,s.haring@liacs.leidenuniv.nl,+31 71 527 7033,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,
+Holger Hoos,Professor of Machine Learning,h.h.hoos@liacs.leidenuniv.nl,+31 71 527 5777,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BM4.11,"artificial intelligence, computer science"
+Simcha Jong Kon Chin,Professor of Science-based business,s.jong@liacs.leidenuniv.nl,+31 71 527 7201,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,"entrepreneurship, global health, global r&d networks, healthcare management, international scientific consortia, precision medicine, science based business, technology management, technology transfer"
+Catholijn Jonker,Professor/Guest,c.m.jonker@liacs.leidenuniv.nl,+31 71 527 7115,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,artificial intelligence
+Jetty Kleijn,Professor Emeritus Theoretical Computing Science,h.c.m.kleijn@liacs.leidenuniv.nl,+31 71 527 2727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BM2.09,
+Wessel Kraaij,Professor of Applied data analytics,w.kraaij@liacs.leidenuniv.nl,+31 71 527 5778,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BE2.09,"artificial intelligence, computer science, data analytics, data science, information retrieval"
+Michael Lew,Professor Deep Learning,m.s.lew@liacs.leidenuniv.nl,+31 71 527 7034,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BE4.06,"artificial intelligence, computer vision, deep learning, machine learning, multi modal learning"
+Stefan Manegold,Professor Computer science,s.manegold@liacs.leidenuniv.nl,+31 71 527 4799,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,
+Nele Mentens,Professor Computer Science,n.mentens@liacs.leidenuniv.nl,+31 71 527 4799,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BM3.01,"artificial intelligence, cryptography, cyber security"
+Rob van Nieuwpoort,Professor Efficient Computing and eScience,r.v.van.nieuwpoort@liacs.leidenuniv.nl,,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BW3.06,
+Alexander Ollongren,Professor emeritus of Computer science,a.ollongren@liacs.leidenuniv.nl,+31 71 527 4799,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,
+Aske Plaat,Professor of Data science,a.plaat@liacs.leidenuniv.nl,+31 71 527 7065,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BE4.21,"artificial intelligence, big data, causality, computer science, data science, deep learning, deep reinforcement learning, explainable artificial intelligence, games, machine learning, multi-agent systems, reinforcement learning"
+Grzegorz Rozenberg,Professor emeritus of Theoretical computer science,g.rozenberg@liacs.leidenuniv.nl,+31 71 527 7067,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BM2.05,
+Marco Spruit,Professor Advanced Data Science in Population Health,m.r.spruit@lumc.nl,+31 71 526 9111,Wijnhaven Turfmarkt 99 2511 DP The Hague Room number 3.20a,
+Fons Verbeek,Professor of Computational Bio-imaging,f.j.verbeek@liacs.leidenuniv.nl,+31 71 527 5773,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BE3.27,"artificial intelligence, bio imaging, deep learning, image processing, machine learning, microscopy, virtual reality, visualisation"
+Suzan Verberne,Professor Computer Science,s.verberne@liacs.leidenuniv.nl,+31 71 527 7043,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BE221,"artificial intelligence, information retrieval, natural language processing"
+Joost Visser,Professor Large Scale Software and Data Science,j.m.w.visser@liacs.leidenuniv.nl,+31 71 527 2727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BE2.26,"agile software development, data science, software engineering, software measurement, software quality"
+Mitra Baratchi,Associate professor,m.baratchi@liacs.leidenuniv.nl,+31 71 527 7492,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BM4.09,artificial intelligence
+Henning Basold,Assistant professor,h.basold@liacs.leidenuniv.nl,+31 71 527 6435,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BM2.11,
+Arianna Bisazza,Assistant Professor / guest,a.bisazza@liacs.leidenuniv.nl,+31 71 527 4799,,
+Joost Broekens,Associate Professor,d.j.broekens@liacs.leidenuniv.nl,+31 71 527 7139,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BE3.04,artificial intelligence
+Lu Cao,Assistant Professor,l.cao@liacs.leidenuniv.nl,+31 71 527 8921,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BE3.20,artificial intelligence
+Qinyu Chen,Assistant professor,q.chen@liacs.leidenuniv.nl,+31 71 527 2727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BM3.05,"ar/vr, circuit design, edge ai, event-based vision, hardware-software co-design, healthcare, neuromorphic computing"
+Anna Dawid-Lekowska,Assistant professor,a.m.dawid@liacs.leidenuniv.nl,+31 71 527 2727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,"explainable artificial intelligence, interpretable machine learning, machine learning, quantum simulation, ultracold physics"
+Andre Deutz,Lecturer / guest,a.h.deutz@liacs.leidenuniv.nl,+31 71 527 7071,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BE4.18,
+Hazel Doughty,Assistant professor,h.r.doughty@liacs.leidenuniv.nl,+31 71 527 2727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BE4.10,"skill determination, video understanding"
+Max van Duijn,Assistant professor,m.j.van.duijn@liacs.leidenuniv.nl,+31 71 527 7903,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BE316,artificial intelligence
+Michael Emmerich,Guest researcher,m.t.m.emmerich@liacs.leidenuniv.nl,+31 71 527 2727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,artificial intelligence
+Joost Engelfriet,Associate professor / guest,j.engelfriet@liacs.leidenuniv.nl,+31 71 527 4799,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,
+Yingjie Fan,Assistant Professor,y.fan@liacs.leidenuniv.nl,+31 71 527 4799,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BE4.20,"behavioral operations research, data-driven modeling, machine learning, multi-objective optimization, robust optimization, stochastic programming"
+Olga Gadyatskaya,Associate professor,o.gadyatskaya@liacs.leidenuniv.nl,+31 71 527 7033,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BM3.07,"cyber security, ethics, mobile security, organizational security, secure software engineering, security risk"
+Sacha Goultiaev,Guest,a.p.goultiaev@liacs.leidenuniv.nl,+31 71 527 2727,,
+Jeannette de Graaf,Assistant professor,j.m.de.graaf@liacs.leidenuniv.nl,+31 71 527 7051,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BM2.09,
+Edwin van der Heide,Lecturer,e.f.van.der.heide@liacs.leidenuniv.nl,+31 71 527 7033,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BE3.12,
+Hendrik Jan Hoogeboom,Associate professor,h.j.hoogeboom@liacs.leidenuniv.nl,+31 71 527 7062,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BM2.05,
+Hsini Huang,Assistant professor,h.i.huang@fgga.leidenuniv.nl,+31 70 800 9500,Wijnhaven Turfmarkt 99 2511 DP The Hague,
+Tobias Kappé,Assistant professor,t.w.j.kappe@liacs.leidenuniv.nl,+31 71 527 2727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,"concurrent control flow, deterministic control flow, kleene algebra, probabilistic control flow, proces algebra, program equivalence"
+Anna Kononova,Assistant professor,a.kononova@liacs.leidenuniv.nl,+31 71 527 4799,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BE4.15,
+Walter Kosters,Associate professor,w.a.kosters@liacs.leidenuniv.nl,+31 71 527 7059,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BM2.07,
+Alfons Laarman,Associate professor,a.w.laarman@liacs.leidenuniv.nl,+31 71 527 5775,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BE2.03,
+Maarten Lamers,Assistant Professor,m.h.lamers@liacs.leidenuniv.nl,+31 71 527 7033,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BE3.12,"artificial intelligence, creativity, robots"
+Matthijs van Leeuwen,Associate professor/Director of Education,m.van.leeuwen@liacs.leidenuniv.nl,+31 71 527 7048,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BE3.05,"algorithms, data mining, data science, explainable artificial intelligence, interpretable models, machine learning, unsupervised learning"
+Xishu Li,Assistant professor,x.li@liacs.leidenuniv.nl,+31 71 527 4799,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,
+Eleftheria Makri,Assistant professor,e.makri@liacs.leidenuniv.nl,+31 71 527 2727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BM3.03,"computing on encrypted data, homomorphic encryption, multiparty computation, privacy-enhancing technologies, secure computation"
+Florian Neukart,Assistant professor,f.neukart@liacs.leidenuniv.nl,+31 71 527 4799,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,
+Evert van Nieuwenburg,Assistant Professor,e.p.l.van.nieuwenburg@liacs.leidenuniv.nl,+31 71 527 5523,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BE2.01,"computational physics, condensed matter physics, machine learning, quantum algorithms, quantum control, quantum games, reinforcement learning"
+Daan Pelt,Assistant Professor,d.m.pelt@liacs.leidenuniv.nl,+31 71 527 4799,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BE4.12,
+Guilherme Perin,Lecturer,g.perin@liacs.leidenuniv.nl,+31 71 527 2727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,"applied cryptography, deep learning, hardware security, optimization algorithms, side-channel analysis"
+Mike Preuss,Associate professor,m.preuss@liacs.leidenuniv.nl,+31 71 527 2727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BE3.06,artificial intelligence
+Peter van der Putten,Assistant professor,p.w.h.van.der.putten@liacs.leidenuniv.nl,+31 71 527 7033,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BE3.14,
+Guus Ramackers,Assistant professor,g.j.ramackers@liacs.leidenuniv.nl,+31 71 527 7036,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BE2.22,
+Elena Raponi,Assistant professor,e.raponi@liacs.leidenuniv.nl,+31 71 527 2727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BE4.19,
+Zhaochun Ren,Associate professor,z.ren@liacs.leidenuniv.nl,+31 71 527 2727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BE211,
+Kristian Rietveld,Assistant professor,k.f.d.rietveld@liacs.leidenuniv.nl,+31 71 527 7038,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BW3.03,"computer systems, high performance computing, optimizing compilers, parallel and distributed computing, system software"
+Jan van Rijn,Assistant professor,j.n.van.rijn@liacs.leidenuniv.nl,+31 71 527 2727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BM4.13,"algorithms, artificial intelligence, data science, informatics, machine learning, metalearning, trustworthy ai"
+Saber Salehkaleybar,Assistant professor,s.salehkaleybar@liacs.leidenuniv.nl,+31 71 527 2727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BE215,
+Rob Saunders,Associate Professor,r.saunders@liacs.leidenuniv.nl,+31 71 527 4799,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BE3.10,artificial intelligence
+Akrati Saxena,Assistant professor,a.saxena@liacs.leidenuniv.nl,+31 71 527 2727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BE2.25,"complex networks, computational social science, data science, fairness, social media, social network analysis"
+Todor Stefanov,Associate professor,t.p.stefanov@liacs.leidenuniv.nl,+31 71 527 5776,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BW3.01,
+Niki van Stein,Assistant professor,n.van.stein@liacs.leidenuniv.nl,+31 71 527 2727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BE4.13,"artificial intelligence, data driven, data mining, industrial processes, kriging, machine learning, optimization, quassian processes, surrogate models"
+Christoph Johann Stettina,Assistant professor,c.j.stettina@liacs.leidenuniv.nl,+31 71 527 4799,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BE2.27,
+Frank Takes,Associate professor/Director of Education,f.w.takes@liacs.leidenuniv.nl,+31 71 527 7143,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BE3.07,"algorithms, artificial intelligence, complex networks, data mining, data science, network science, social networks"
+Alex Uta,Assistant professor,a.uta@liacs.leidenuniv.nl,+31 71 527 2727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,
+Tessa Verhoef,Assistant professor,t.verhoef@liacs.leidenuniv.nl,+31 71 527 7903,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BE3.08,"agent simulations, artificial intelligence, cognitive science, cultural evolution, emergent communication, language evolution"
+Hao Wang,Assistant Professor,h.wang@liacs.leidenuniv.nl,+31 71 527 4799,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BE4.22,artificial intelligence
+Jian Wang,,j.wang@cwts.leidenuniv.nl,+31 71 527 2727,Willem Einthoven Kolffpad 1 2333 BN Leiden,"bibliometrics, innovation studies, machine learning, science and innovation analytics, science and technology policy, science studies, statistics, strategy"
+Ben van Werkhoven,Assistant professor,b.j.c.van.werkhoven@liacs.leidenuniv.nl,+31 71 527 2727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BW3.05,"accelerated computing, computer science, energy efficiency, graphics processing units, high performance computing, machine learning, optimization, parallel and distributed computing, performance optimization"
+Gijs Wijnholds,Assistant professor,g.j.wijnholds@liacs.leidenuniv.nl,+31 71 527 2727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BE219,
+Miros Zohrehvand,Assistant Professor,a.h.zohrehvand@sbb.leidenuniv.nl,+31 71 527 4799,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BE218,
+Erman Acar,Guest Postdoc,e.acar@liacs.leidenuniv.nl,+31 71 527 4799,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,
+Erwin Bakker,Researcher,e.m.bakker@liacs.leidenuniv.nl,+31 71 527 7115,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BE2.05,
+Francesco Bariatti,Postdoc,f.bariatti@liacs.leidenuniv.nl,+31 71 527 7052,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BE3.09,
+Alberto Ceria-,Postdoc,a.ceria@liacs.leidenuniv.nl,+31 71 527 2727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BE3.03,"higher-order networks, network science, temporal networks"
+Tim Coopmans,Postdoc,t.j.coopmans@liacs.leidenuniv.nl,071 5274799,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BM2.13,
+Walter Crist III,Lecturer,w.l.crist.iii@hum.leidenuniv.nl,+31 71 527 2727,Arsenaal Arsenaalstraat 1 2311 CT Leiden Room number B1.01,
+Vincent Croft-,Postdoc,v.a.croft@liacs.leidenuniv.nl,+31 71 527 4799,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,"big data, data analysis, quantum algorithms, quantum machine learning, statistical learning"
+Dominika Czerniawska,Postdoc,d.czerniawska@liacs.leidenuniv.nl,+31 71 527 4799,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BE3.01,
+Richard van Dijk,Research Software Engineer,m.k.van.dijk@liacs.leidenuniv.nl,+31 71 527 4799,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BE2.20,
+Sebastian Fajardo Bernal,Postdoc,s.d.fajardo.bernal@liacs.leidenuniv.nl,+31 71 527 2727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BE3.01,"anthropological theory, artificial intelligence, computational modelling, evolution, settlement patterns, technological complexity"
+Oisin Flynn-Connolly,Postdoc,o.c.flynn.connolly@liacs.leidenuniv.nl,071 5272727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,
+Chase Ford,Postdoc,m.c.ford@liacs.leidenuniv.nl,+31 71 527 2727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BM2.13,
+Burak Gülmez,Postdoc/ Guest,b.gulmez@liacs.leidenuniv.nl,+31 71 527 2727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BE4.25,
+Sofoklis Kitharidis,PhD candidate,s.kitharidis@liacs.leidenuniv.nl,+31 71 527 2727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,
+Arno Knobbe,Associate professor,a.j.knobbe@liacs.leidenuniv.nl,+31 71 527 8919,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BE213,artificial intelligence
+Rob Konijn,Guest,r.m.konijn@liacs.leidenuniv.nl,+31 71 527 2727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,
+Jan Krzywda,Postdoc,j.a.krzywda@liacs.leidenuniv.nl,+31 71 527 2727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,
+Solomiia Kurchaba,Guest Postdoc,s.kurchaba@liacs.leidenuniv.nl,+31 71 527 2727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,
+Joon Hyung Lee,Postdoc,j.h.lee@liacs.leidenuniv.nl,+31 71 527 2727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,"combinatorics, quantum algorithms, random graphs, random matrices, satisfiability"
+Armel Lefebvre,Postdoc / Guest,a.e.j.l.lefebvre@liacs.leidenuniv.nl,+31 71 527 2727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BE2.07,
+Pieter Leyman,Postdoc,p.leyman@liacs.leidenuniv.nl,+31 71 527 2727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,
+Chuan Luo,Guest Staff Member,c.luo@liacs.leidenuniv.nl,+31 71 527 4799,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,
+Muhammad Mahmoud,Postdoc,m.o.mahmoud@liacs.leidenuniv.nl,+31 71 527 2727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,
+Jan Martens,Postdoc,j.j.m.martens@liacs.leidenuniv.nl,+31 71 527 2727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,
+Rens Meerhoff,Postdoc/ Guest,l.a.meerhoff@liacs.leidenuniv.nl,+31 71 527 2727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,
+Thomas Moerland,Assistant professor,t.m.moerland@liacs.leidenuniv.nl,+31 71 527 4799,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BE4.09,
+Sina Mohammadi,Postdoc,s.mohammadi@liacs.leidenuniv.nl,+31 71 527 2727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,
+Willem Jan Palenstijn,Ict developer,w.j.palenstijn@liacs.leidenuniv.nl,+31 71 527 2727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BE2.16,
+Mohammad Taghi Ramezan Zadeh,Lecturer / Guest,m.t.ramezan.zadeh@liacs.leidenuniv.nl,,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,
+Samira Rezaei Badafshani,Postdoc,s.rezaei.badafshani@liacs.leidenuniv.nl,+31 71 527 4799,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BM4.11,
+Agnese Rizzato,Postdoc,a.rizzato@liacs.leidenuniv.nl,+31 71 527 2727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,
+Anton Schreuder,Guest,a.schreuder@liacs.leidenuniv.nl,+31 71 527 2727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,
+Álvaro Serra-Gómez,Postdoc,a.serra-gomez@liacs.leidenuniv.nl,+31 71 527 2727,Snellius Niels Bohrweg 1 2333 CA Leiden,
+Anastasiia Skurativska,Postdoc,a.skurativska@liacs.leidenuniv.nl,+31 71 527 2727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,
+Rafael Wlodarski,Postdoc,r.s.wlodarski@liacs.leidenuniv.nl,+31 71 527 7903,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BM3.31,
+Furong Ye,Postdoc,f.ye@liacs.leidenuniv.nl,+31 71 527 2727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,
+Sabiha Yeni,Postdoc,s.yeni@liacs.leidenuniv.nl,+31 71 527 2727,Snellius Niels Bohrweg 1 2333 CA Leiden,
+Nusa Zidaric,Assistant professor,n.zidaric@liacs.leidenuniv.nl,+31 71 527 4799,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BM3.09,"cryptography, finite field arithmetic, hardware design, hardware design automation"
+Amin Abolghasemi,PhD candidate,m.a.abolghasemi@liacs.leidenuniv.nl,+31 71 527 4799,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BE2.24,
+Zhengtian Ai,PhD candidate / guest,z.ai@liacs.leidenuniv.nl,071 5277058,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,
+jafar Akhoundali,PhD candidate,j.akhoundali@liacs.leidenuniv.nl,+31 71 527 2727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BM3.20,
+Marie Anastacio,PhD candidate,m.i.a.anastacio@liacs.leidenuniv.nl,+31 71 527 4799,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,
+Kirill Antonov,PhD candidate,k.antonov@liacs.leidenuniv.nl,+31 71 527 4799,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BE4.25,
+Ana Cristina Arcos Marin,PhD candidate,a.c.arcos.marin@liacs.leidenuniv.nl,+31 71 527 2727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,"astronomy, bio-imaging, deep learning, life science, zebrafish"
+Laurens Arp,PhD candidate,l.r.arp@liacs.leidenuniv.nl,+31 71 527 4799,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BE4.01,
+Arian Askari,PhD candidate,a.askari@liacs.leidenuniv.nl,+31 71 527 4799,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BE2.24,
+Rahul Bandyopadhyay,PhD candidate,r.bandyopadhyay@liacs.leidenuniv.nl,+31 71 527 2727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,"quantum computation, quantum information theory, quantum machine learning"
+Giulio Barbero,PhD candidate,g.barbero@liacs.leidenuniv.nl,+31 71 527 4799,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BM3.18,
+Mariam Basajja,PhD candidate / Guest,m.basajja@liacs.leidenuniv.nl,+31 71 527 2727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,
+Juan Bascur Cifuentes,External PhD candidate,j.p.bascur.cifuentes@cwts.leidenuniv.nl,+31 71 527 2727,Willem Einthoven Kolffpad 1 2333 BN Leiden Room number B4.44,
+Andrius Bernatavicius,PhD candidate,a.bernatavicius@liacs.leidenuniv.nl,+31 71 527 4799,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,
+Miguel Blom,PhD candidate,m.o.blom@liacs.leidenuniv.nl,+31 71 527 4799,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BM3.22,
+Hanjo Boekhout,PhD candidate,h.d.boekhout@liacs.leidenuniv.nl,+31 71 527 4799,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BE2.23,
+Vasilii Bokov,PhD candidate,v.bokov@liacs.leidenuniv.nl,+31 71 527 2727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,"kernel methods, quantum networks, quantum optimization algorithms, supervised quantum machine learning"
+Gijsbert Boon,PhD candidate / self funded,g.c.boon@liacs.leidenuniv.nl,071 5272727,,
+Richelle Boone,PhD candidate / Guest,r.n.boone@liacs.leidenuniv.nl,+31 71 527 2727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,
+Annelot Bosman,PhD candidate,a.w.bosman@liacs.leidenuniv.nl,+31 71 527 4799,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BE4.03,"ai safety, artificial intelligence, neural networks"
+Marianne Bossema,PhD candidate / contract,m.bossema@liacs.leidenuniv.nl,+31 71 527 2727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BM3.31,
+Murad Bozik,PhD student,m.h.bozik@liacs.leidenuniv.nl,+31 71 527 2727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,"expressive speech synthesis, novel speaker generation, text-to-speech"
+Sebastiaan Brand,PhD student,s.o.brand@liacs.leidenuniv.nl,+31 71 527 2727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BM2.23,
+Vincent Cellucci,PhD candidate / self funded,v.a.cellucci@liacs.leidenuniv.nl,071 5272727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,
+Mojgan Chaichian Maleki,PhD candidate,m.chaichian.maleki@liacs.leidenuniv.nl,+31 71 527 2727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,"community-based health interventions, health inequities, personalized preventive healthcare, poverty and health outcomes, trust and adherence in healthcare"
+Bei Chen,PhD candidate / contract,c.bei@liacs.leidenuniv.nl,+31 71 527 2727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,
+Wei Chen,PhD candidate / guest,w.chen@liacs.leidenuniv.nl,,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,
+Yi Chen,PhD candidate,y.chen@liacs.leidenuniv.nl,+31 71 527 8920,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,
+Wenjing Chu,PhD candidate/ Guest,w.chu@liacs.leidenuniv.nl,+31 71 527 2727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,
+Bram van Dijk,Guest,b.m.a.van.dijk@liacs.leidenuniv.nl,+31 71 527 2727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,
+Feibo Duan,PhD candidate / guest,f.duan@liacs.leidenuniv.nl,,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,
+Linus Ekstrøm,Self Funded PhD Candidate / Guest,l.ekstrom@liacs.leidenuniv.nl,071 5272727,,
+Soufian El Yadmani,External PhD candidate,s.el.yadmani@liacs.leidenuniv.nl,071 5274799,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BM3.12,
+Sebastian Ellmaier,PhD candidate / self funded,m.r.ellmaier@liacs.leidenuniv.nl,071 5272727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,
+Marc Farreras I Bartra,PhD candidate,m.farreras.i.bartra@liacs.leidenuniv.nl,+31 71 527 2727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,"compilation methods, quantum computing, tensor networks, zx calculus"
+Khashayar Fathinejad,PhD candidate / Marie Curie fellow,k.fathinejad@liacs.leidenuniv.nl,+31 71 527 2727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BE4.07,
+Fatemeh Fazel Hesar,PhD candidate / self funded,f.fazel.hesar@liacs.leidenuniv.nl,071 5272727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,
+Hui Feng,PhD candidate/ guest,h.feng@liacs.leidenuniv.nl,+31 71 527 4799,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,
+Lucas Ferreira Correia,Guest PhD candidate / Self Funded,l.ferreira.correia@liacs.leidenuniv.nl,071 5274799,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,
+Felix Frohnert,PhD candidate,f.frohnert@liacs.leidenuniv.nl,+31 71 527 2727,Huygens Niels Bohrweg 2 2333 CA Leiden,"computational physics, condensed matter physics, machine learning, quantum algorithms, quantum computing"
+Lennard Froma,PhD candidate,l.c.froma@liacs.leidenuniv.nl,+31 71 527 2727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,"hybrid ai, interactive inspection"
+Daniela Gawehns,PhD candidate/ Guest,d.gawehns@liacs.leidenuniv.nl,+31 71 527 2727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BM2.14,
+Mary Go,PhD candidate / Marie Curie fellow,m.c.r.go@liacs.leidenuniv.nl,+31 71 527 2727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BE4.16,"artificial intelligence, tomography"
+Olivier Goletti,PhD candidate / Guest,o.x.r.goletti@liacs.leidenuniv.nl,+31 71 527 6124,Snellius Niels Bohrweg 1 2333 CA Leiden Room number 142,
+Adriaan Graas,PhD Candidate / self funded,a.b.m.graas@liacs.leidenuniv.nl,071 5274799,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,
+Xiaotian Guo,PhD candidate / guest,x.guo@liacs.leidenuniv.nl,+31 71 527 4799,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BM3.12,
+Max van Haastrecht,PhD candidate,m.a.n.van.haastrecht@liacs.leidenuniv.nl,+31 71 527 4799,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BM2.16,"cyber security, data science, statistics, validation"
+Alan Kai Hassen,Guest PhD candidate,a.k.hassen@liacs.leidenuniv.nl,+31 71 527 4799,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BM3.31,"cheminformatics, computer-aided synthesis planning, deep learning, reinforcement learning, retrosynthesis"
+Kai He,PhD candidate / Contract,k.he@liacs.leidenuniv.nl,+31 71 527 4799,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BM3.33,
+Steef Hegeman,PhD candidate,s.hegeman@liacs.leidenuniv.nl,+31 71 527 2727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BM2.23,
+Edwin van der Heide,Lecturer,e.f.van.der.heide@liacs.leidenuniv.nl,+31 71 527 7033,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BE3.12,
+Leon Helwerda,PhD candidate,l.s.helwerda@liacs.leidenuniv.nl,+31 71 527 4799,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,
+Bernhard Hilpert,PhD candidate,b.hilpert@liacs.leidenuniv.nl,+31 71 527 7139,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BM3.18,
+Qi Huang,PhD candidate,q.huang@liacs.leidenuniv.nl,+31 71 527 4799,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BE4.17,
+Dani Irawan,PhD candidate / guest,d.irawan@liacs.leidenuniv.nl,071 5277061,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,
+Mehrdad Jahanbanifard,PhD candidate / Guest,m.jahanbanifard@liacs.leidenuniv.nl,+31 71 527 4799,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,
+Shima Javanmardi,Education and research staff member,s.javanmardi@liacs.leidenuniv.nl,+31 71 527 4799,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,
+Xinyuan Ji-,PhD candidate / self funded,x.ji@liacs.leidenuniv.nl,071 5272727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,
+Keyan Jin,,k.jin@liacs.leidenuniv.nl,+31 71 527 4799,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,"bibliometrics, information retrieval, scientific novelty"
+Rachel de Jong,PhD candidate,r.g.de.jong@liacs.leidenuniv.nl,+31 71 527 4799,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BE3.03,
+Sengim Karayalcin,PhD candidate,s.karayalcin@liacs.leidenuniv.nl,+31 71 527 2727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BM3.13,
+Yuliia Kazmina,PhD candidate / guest,y.kazmina@liacs.leidenuniv.nl,+31 71 527 2727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,
+Marie Kempkes,PhD candidate / self funded,m.c.kempkes@liacs.leidenuniv.nl,071 5274799,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,
+Nurbolat Kenbayev,Guest,n.kenbayev@liacs.leidenuniv.nl,+31 71 527 2727,,"quantum algorithms, quantum information theory, quantum machine learning, reinforcement learning"
+Samar Khalil,PhD candidate / self funded,s.s.khalil.2@liacs.leidenuniv.nl,071 5272727,,
+Maximilian Kiss,PhD candidate / self funded,m.b.kiss@liacs.leidenuniv.nl,071 5272727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BM3.33,
+Felix Kleuker,PhD candidate,j.f.kleuker@liacs.leidenuniv.nl,+31 71 527 2727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BE4.23,
+Veysel Kocaman,PhD candidate / guest,v.kocaman@liacs.leidenuniv.nl,+31 71 527 7061,Snellius Niels Bohrweg 1 2333 CA Leiden,
+Tom Kouwenhoven,PhD candidate,t.kouwenhoven@liacs.leidenuniv.nl,+31 71 527 4799,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BM3.18,"artificial intelligence, cognitive psychology, language evolution, machine learning"
+Arina Kudriavtseva,PhD candidate,a.kudriavtseva@liacs.leidenuniv.nl,+31 71 527 4799,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BM3.20,
+Andrii Kurkin,PhD candidate,a.kurkin@liacs.leidenuniv.nl,+31 71 527 2727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,
+Pieter Kwantes,Guest,p.m.kwantes@liacs.leidenuniv.nl,+31 71 527 2727,,
+Matthias König,PhD candidate,h.m.t.konig@liacs.leidenuniv.nl,+31 71 527 2727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,
+Robin van der Laag,PhD candidate,r.p.van.der.laag@liacs.leidenuniv.nl,+31 71 527 2727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,
+Evani Lachmansingh,PhD candidate,e.t.lachmansingh@liacs.leidenuniv.nl,+31 71 527 2727,Snellius Niels Bohrweg 1 2333 CA Leiden,"artificial intelligence, chemistry, drug discovery"
+Christiaan Lamers,Guest PhD candidate / self funded,c.h.c.b.lamers@liacs.leidenuniv.nl,071 5274799,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BE4.24,
+Anna Langedijk,PhD candidate,a.langedijk@liacs.leidenuniv.nl,+31 71 527 2727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,
+Mingrui Lao,PhD candidate/guest,m.lao@liacs.leidenuniv.nl,+31 71 527 7077,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BM3.33,
+Jia Li,PhD candidate / Guest,j.li@liacs.leidenuniv.nl,+31 71 527 4799,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,
+Rui Li,,r.li@liacs.leidenuniv.nl,+31 71 527 4799,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BM3.20,
+Yujie Li,Contract PhD Candidate / Guest,y.li@liacs.leidenuniv.nl,071 5272727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BM2.14,
+Zhong Li,PhD candidate,z.li@liacs.leidenuniv.nl,+31 71 527 4799,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,
+Yuchen Lian,PhD candidate / guest,y.lian@liacs.leidenuniv.nl,+31 71 527 7050,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BM3.31,
+I-Fan Lin,PhD candidate,i.lin@liacs.leidenuniv.nl,+31 71 527 2727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BE2.24,"conversational intelligence, machine learning, natural language processing"
+Badia Liokouras,PhD candidate,a.b.liokouras@liacs.leidenuniv.nl,+31 71 527 2727,Snellius Niels Bohrweg 1 2333 CA Leiden,
+Kaiting Liu,PhD candidate,k.liu@liacs.leidenuniv.nl,+31 71 527 2727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,
+Wei Liu,Contract PhD Candidate / Guest,w.liu@liacs.leidenuniv.nl,+31 71 527 2727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BE4.24,
+Fu Long,PhD Candidate / Self Funded,f.x.long@liacs.leidenuniv.nl,071 5274799,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,
+Jingmin Long,PhD candidate / contract,j.long@liacs.leidenuniv.nl,+31 71 527 4799,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,
+Guorui Lu,PhD candidate,g.lu@liacs.leidenuniv.nl,+31 71 527 2727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,"ai for healthcare, physiological signal processing"
+Shane Mannion,Guest,s.mannion@liacs.leidenuniv.nl,+31 71 527 2727,,
+Simon Marshall,PhD candidate,s.c.marshall@liacs.leidenuniv.nl,+31 71 527 2727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,"circuit-cutting, machine learning, quantum computing"
+Irene Martorelli,PhD candidate,i.martorelli@liacs.leidenuniv.nl,+31 71 527 4799,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,bioinformatica
+Danica Mast,PhD candidate / guest,d.mast@liacs.leidenuniv.nl,+31 71 527 7031,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BM3.31,
+Michiel van der Meer,Guest,m.t.van.der.meer@liacs.leidenuniv.nl,+31 71 527 2727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,
+Sumiran Mehra,PhD candidate,s.mehra@liacs.leidenuniv.nl,+31 71 527 4799,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BM3.12,
+Fatemeh Mehrafrooz Mayvan,PhD candidate,f.mehrafrooz.mayvan@liacs.leidenuniv.nl,+31 71 527 2727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BM3.12,"embedded machine learning, embedded systems, hardware security"
+Jingyi Mei,PhD candidate,j.mei@liacs.leidenuniv.nl,+31 71 527 2727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BM2.23,
+Qianru Meng,PhD candidate / Guest,q.r.meng@liacs.leidenuniv.nl,+31 71 527 4799,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BM2.14,
+André Mesquita Fery Antunes,PhD candidate / Marie Curie fellow,a.r.mesquita.fery.antunes@liacs.leidenuniv.nl,+31 71 527 2727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,"computed tomography, deep learning, image processing, quality enhancement, x-ray scattering"
+Ramira van der Meulen,PhD candidate,a.van.der.meulen@liacs.leidenuniv.nl,+31 71 527 2727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BM3.18,"agent simulations, artificial intelligence, human-ai interaction, theory of mind"
+Riccardo Molteni,PhD candidate,r.molteni@liacs.leidenuniv.nl,+31 71 527 2727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,
+Matthias Müller-Brockhausen,PhD candidate,m.f.t.muller-brockhausen@liacs.leidenuniv.nl,+31 71 527 2727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BM3.31,
+Mahnaz Namazi Rizi,PhD candidate,m.namazi.rizi@liacs.leidenuniv.nl,+31 71 527 4799,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BM3.12,
+Anh Nguyen,PhD candidate/guest,d.a.nguyen@liacs.leidenuniv.nl,+31 71 527 4799,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,
+Jacob de Nobel,PhD candidate,j.p.de.nobel@liacs.leidenuniv.nl,+31 71 527 4799,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BE4.11,
+Ivan Olarte Rodriguez,PhD candidate,i.olarte.rodriguez@liacs.leidenuniv.nl,+31 71 527 2727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,
+Shuaiqun Pan,PhD candidate / contract,s.pan@liacs.leidenuniv.nl,+31 71 527 4799,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BE4.24,
+Stylianos Paraschiakos,PhD candidate / guest,s.paraschiakos@liacs.leidenuniv.nl,+31 71 527 8927,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,
+Andreas Paraskeva,PhD candidate,a.paraskeva@liacs.leidenuniv.nl,+31 71 527 2727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BE4.05,automated machine learning
+Yash Patel,Postdoc,y.j.patel@liacs.leidenuniv.nl,+31 71 527 7058,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,
+Erick Paulus,PhD candidate / Guest,e.paulus@liacs.leidenuniv.nl,+31 71 527 4799,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,
+António Pereira Barata,Postdoc/guest,a.p.pereira.barata@liacs.leidenuniv.nl,+31 71 527 7050,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,
+Ksenia Pereverdieva,PhD candidate,k.g.pereverdieva@liacs.leidenuniv.nl,+31 71 527 4799,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BE4.17,
+Koen Ponse,PhD candidate,k.ponse@liacs.leidenuniv.nl,+31 71 527 2727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BE4.23,
+Tobias Preintner,PhD candidate / self funded,t.p.preintner@liacs.leidenuniv.nl,071 5272727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,
+Nan Pu,PhD candidate / guest,n.pu@liacs.leidenuniv.nl,+31 71 527 7077,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,
+Jiawen QI,PhD candidate,j.qi@liacs.leidenuniv.nl,071 5272727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,"hardware - software co-optimization of large language models, low bit models"
+Arend-Jan Quist,PhD candidate,a.quist@liacs.leidenuniv.nl,+31 71 527 2727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BM2.23,"quantum algorithms, quantum compilation, quantum computing, quantum simulation"
+Niloofar Raeyatdoost,External PhD candidate / Guest,n.raeyatdoost@liacs.leidenuniv.nl,071 5274799,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,
+Tanjona Ralaivaosaona,PhD candidate,t.f.r.ralaivaosaona@liacs.leidenuniv.nl,+31 71 527 4799,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BM2.23,
+Bram Renting,PhD candidate,b.m.renting@liacs.leidenuniv.nl,+31 71 527 2727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,
+Sander van Rijn,PhD candidate,s.j.van.rijn@liacs.leidenuniv.nl,+31 71 527 4799,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,
+Faezeh Sadat Saadatmand,PhD candidate,f.saadatmand@liacs.leidenuniv.nl,+31 71 527 4799,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BM3.12,
+Waheeda Saib,PhD candidate,w.b.saib@liacs.leidenuniv.nl,+31 71 527 4799,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,
+Abolfazl Sajadi,PhD candidate,a.sajadi@liacs.leidenuniv.nl,+31 71 527 4799,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BM3.12,"cryptographic primitives, design & verification, digital systems, electronic design automation, hardware architectures"
+Andreas Sauter,PhD candidate / guest,a.w.m.sauter@liacs.leidenuniv.nl,+31 71 527 4799,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BE4.23,"causality, reinforcement learning"
+Nathan Daniel Schiele,PhD candidate,n.d.schiele@liacs.leidenuniv.nl,+31 71 527 4799,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BM3.20,
+Richard Schoonhoven,Guest,r.a.schoonhoven@liacs.leidenuniv.nl,+31 71 527 2727,,
+Hongchang Shan,PhD candidate / guest,h.shan@liacs.leidenuniv.nl,+31 71 527 7491,Sylvius Sylviusweg 72 2333 BE Leiden Room number 145a,"artificial intelligence, brain computer interface, convolutional neural network, machine learning, p300 speller"
+Kevin Shen,Self Funded PhD Candidate / Guest,k.shen@liacs.leidenuniv.nl,,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,
+Chenyu Shi,PhD candidate,c.shi@liacs.leidenuniv.nl,+31 71 527 2727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,"algorithm design, optimization theory quantum machine learning"
+Jiayang Shi,,j.shi@liacs.leidenuniv.nl,+31 71 527 4799,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BE4.14,
+Roozbeh Siyadatzadeh,PhD candidate,s.r.siyadatzadeh@liacs.leidenuniv.nl,+31 71 527 4799,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BM3.12,"embedded machine learning, embedded systems, low power design, reliability, smart cps"
+Kaela Slavik,Guest account,k.a.slavik@liacs.leidenuniv.nl,+31 71 527 2727,,
+Lindsay Spoor,PhD candidate,l.j.spoor@liacs.leidenuniv.nl,+31 71 527 2727,,
+Berend van Starkenburg,PhD candidate,b.c.r.van.starkenburg@liacs.leidenuniv.nl,+31 71 527 2727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BM2.23,
+Sandra Strakova,Guest,s.strakova@liacs.leidenuniv.nl,+31 71 527 2727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,
+Luc Sträter,PhD candidate,l.p.j.strater@liacs.leidenuniv.nl,+31 71 527 2727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,"deep learning, representation learning, self-supervised learning, video understanding"
+Shuang Sun,PhD candidate,s.sun@liacs.leidenuniv.nl,+31 71 527 2727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,
+Dimitrios Thanos,PhD candidate,d.thanos@liacs.leidenuniv.nl,+31 71 527 4799,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BM2.23,
+André Thomaser,PhD candidate / Self Funded,a.m.thomaser@liacs.leidenuniv.nl,071 5274799,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,
+Guus Toussaint,PhD candidate,g.toussaint@liacs.leidenuniv.nl,+31 71 527 2727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BM2.16,
+Cem Unsal,Postdoc,c.u.unsal@liacs.leidenuniv.nl,+31 71 527 2727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,
+Serban Vadineanu,PhD Student,s.vadineanu@liacs.leidenuniv.nl,+31 71 527 4799,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BE4.14,
+Wouter Van den Berg,PhD candidate,w.j.van.den.berg@liacs.leidenuniv.nl,+31 71 527 2727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,
+Diederick Vermetten,PhD candidate,d.l.vermetten@liacs.leidenuniv.nl,+31 71 527 7060,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BE4.11,
+Alejandro David Villoria Gonzalez,PhD candidate,a.d.villoria.gonzalez@liacs.leidenuniv.nl,+31 71 527 2727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BM2.23,
+Marieke Vinkenoog,Lecturer,m.vinkenoog@liacs.leidenuniv.nl,+31 71 527 4799,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BM2.14,
+Lieuwe Vinkhuijzen,PhD candidate / guest,l.t.vinkhuijzen@liacs.leidenuniv.nl,071 5272727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,
+David Von Dollen,PhD candidate / Guest,d.von.dollen@liacs.leidenuniv.nl,+31 71 527 7058,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,
+Maarten Vonk,PhD Candidate / Self Funded,m.c.vonk@liacs.leidenuniv.nl,071 5274799,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BE4.18,
+Bernd Wagner,PhD candidate / self funded,b.g.wagner@liacs.leidenuniv.nl,071 5272727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,
+Peng Wang,Researcher,p.wang@liacs.leidenuniv.nl,+31 71 527 7050,Sylvius Sylviusweg 72 2333 BE Leiden Room number 126,"bufferless, confined-interference communication, duty buffer, dynamic bypass, network-on-chip, power gating"
+Tianyuan Wang,PhD candidate,t.wang@liacs.leidenuniv.nl,071 5272727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,
+Yumeng Wang,PhD candidate,y.wang@liacs.leidenuniv.nl,+31 71 527 2727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BE2.24,"conversational agents, explainability, explainable artificial intelligence, information retrieval, large language models"
+Julia Wasala,PhD candidate,j.wasala@liacs.leidenuniv.nl,+31 71 527 4799,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BE4.03,"automated machine learning, automl, deep learning, earth observation"
+Xiaohan Wei,PhD candidate / contract,x.w.wei@liacs.leidenuniv.nl,+31 71 527 4799,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BE4.24,
+Weikang Weng,PhD candidate,w.weng@liacs.leidenuniv.nl,+31 71 527 4799,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BW3.04,
+Vivian van der Werf,Guest,v.van.der.werf@liacs.leidenuniv.nl,+31 71 527 2727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,
+Roy de Winter,PhD candidate / Guest,r.de.winter@liacs.leidenuniv.nl,071 5277058,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BE4.18,
+Annie Wong,PhD Candidate / Guest,a.s.w.wong@liacs.leidenuniv.nl,+31 71 527 4799,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BE4.18,
+Zhan Xiong,PhD candidate / guest,z.xiong@liacs.leidenuniv.nl,+31 71 527 7063,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,
+Dan Xu,PhD candidate / guest,d.xu@liacs.leidenuniv.nl,071 5277061,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BM3.31,
+Mahtab Yaghubi Rad,PhD candidate,m.yaghubi.rad@liacs.leidenuniv.nl,+31 71 527 2727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,
+Kaifeng Yang,Researcher / Guest,k.yang@liacs.leidenuniv.nl,+31 71 527 4799,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,
+Lincen Yang,Postdoc,l.yang@liacs.leidenuniv.nl,+31 71 527 7050,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BE3.09,
+Zhao Yang,PhD candidate / guest,z.yang@liacs.leidenuniv.nl,+31 71 527 4799,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BE4.23,
+Mert Yazan,PhD candidate / self funded,m.yazan@liacs.leidenuniv.nl,071 5272727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BE2.24,"artificial intelligence, chatbot anthropomorphism, consumer psychology, conversational agents, machine learning, natural language processing"
+Haoran Yin,PhD candidate / contract,h.yin@liacs.leidenuniv.nl,+31 71 527 2727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BE4.24,
+Ying Yin,PhD candidate / guest,y.yin@sbb.leidenuniv.nl,+31 71 527 4799,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BM3.24,
+Alexander Zeiser,PhD candidate / guest,a.z.zeiser@liacs.leidenuniv.nl,+31 71 527 4799,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,
+Jujia Zhao,PhD candidate,j.zhao@liacs.leidenuniv.nl,+31 71 527 2727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,
+Yuxuan Zhao,PhD candidate,y.zhao@liacs.leidenuniv.nl,+31 71 527 4799,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BW3.04,
+Wendy Aartsen,Project manager / guest,w.m.aartsen@umail.leidenuniv.nl,+31 71 527 1718,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,
+Anne-Marie Alleblas,Secretary,a.alleblas@liacs.leidenuniv.nl,+31 71 527 4799,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BE3.23,
+Juriaan Bakx,Ict developer,j.bakx@liacs.leidenuniv.nl,+31 71 527 4331,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BW3.08,
+Arie Benschop,Administrative employee / Guest,a.benschop@liacs.leidenuniv.nl,+31 71 527 2727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BE3.23,
+Sanae Bihaki-,Department manager,s.bihaki@science.leidenuniv.nl,+31 71 527 2727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BE 3.1,
+Alexandra Blank,Study adviser,a.blank@liacs.leidenuniv.nl,+31 71 527 1067,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BE2.10,
+Abdeljalil el Boujadayni,Administrator,a.el.boujadayni@liacs.leidenuniv.nl,+31 71 527 7096,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BE3.15,
+Boet Bouten,Student assistant,b.bouten@liacs.leidenuniv.nl,+31 71 527 2727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,
+Ilja van den Brandt,Study adviser,i.van.den.brandt@liacs.leidenuniv.nl,+31 71 527 2727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BE2.08,
+Caroline de Bruin,Director of Operations,c.j.de.bruin@liacs.leidenuniv.nl,+31 6 3416 1213,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BE3.13,
+Esme Caubo,Education coordinator / study adviser,e.caubo@liacs.leidenuniv.nl,+31 71 527 5298,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BE2.12,
+Riet Derogee,Education coordinator,m.derogee@liacs.leidenuniv.nl,+31 71 527 5780,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BE2.06,
+Irina Epure,Technician,i.m.epure@liacs.leidenuniv.nl,+31 71 527 2727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,
+Linda van Erp-van Genderen,Education coordinator,l.p.c.van.erp@liacs.leidenuniv.nl,+31 71 527 2727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BE214,
+Joyce Glerum,Education coordinator,j.a.j.glerum@liacs.leidenuniv.nl,+31 71 527 3613,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BE2.06,
+Jonne Goedhart,Technician,j.j.goedhart@liacs.leidenuniv.nl,+31 71 527 2727,Gorlaeus Faculty Office Einsteinweg 55 2333 CC Leiden Room number BE2.20,
+Vianney Govers,ICT manager,h.m.v.c.govers@liacs.leidenuniv.nl,+31 71 527 7039,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,
+Mischa Hautvast,Project coordinator,m.hautvast@liacs.leidenuniv.nl,+31 71 527 6985,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BE3.17,
+Nina Hefele,Management assistant,n.hefele@liacs.leidenuniv.nl,+31 71 527 2727,Oort Niels Bohrweg 2 2333 CA Leiden Room number 237,
+Mariska Heijmen,Knowledge valorization staff member,m.heijmen@liacs.leidenuniv.nl,+31 71 527 4799,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BE3.02,
+Judith Janssen,Student affairs staff member,j.janssen@liacs.leidenuniv.nl,+31 71 527 4799,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BE2.02,
+Dimitra Kouimtzidou,Project leader,d.kouimtzidou@liacs.leidenuniv.nl,+31 71 527 7057,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BE3.02,
+Sanne van Kralingen,Department manager,s.van.kralingen@liacs.leidenuniv.nl,+31 71 527 2727,Snellius Niels Bohrweg 1 2333 CA Leiden Room number BE.3.2,
+Eva van der Kruk,Department manager,e.m.van.der.kruk@liacs.leidenuniv.nl,+31 71 527 2951,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BE2.04,
+Christiane Luttikhuizen,Project leader,c.j.a.luttikhuizen@liacs.leidenuniv.nl,+31 71 527 2727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BE3.02,
+Sylvia Maas,Management assistant,s.v.maas@liacs.leidenuniv.nl,+31 71 527 7058,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BE4.26,
+Anna van der Meulen,Study adviser,a.n.van.der.meulen@liacs.leidenuniv.nl,+31 71 527 1067,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BE2.10,
+Marloes van der Nat,Official secretary Board of Examiners/International Coordinator,m.van.der.nat@liacs.leidenuniv.nl,+31 71 527 7061,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BE3.26,
+Sam van Nieuwenhuijze,Policy officer,s.van.nieuwenhuijze@liacs.leidenuniv.nl,+31 71 527 2727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,
+Laurens Polet,Student affairs staff member,l.c.f.polet@liacs.leidenuniv.nl,+31 71 527 4551,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BE2.02,
+Nicolette Remmerswaal,Management assistant,n.p.m.remmerswaal@liacs.leidenuniv.nl,+31 71 527 5792,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BE3.19,
+Floris Jan Sicking,Education and Research Support,f.j.sicking@issc.leidenuniv.nl,+31 71 527 6328,Snellius Niels Bohrweg 1 2333 CA Leiden Room number 52,
+Christian Smeijsters,Student affairs staff member,c.j.j.smeijsters@liacs.leidenuniv.nl,+31 71 527 2727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BE2.02,
+Marcel Tichelaar,Communication Staff Member,m.tichelaar@liacs.leidenuniv.nl,+31 71 527 6985,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BE3.17,
+Marielle Tijmensen,Education coordinator,m.a.tijmensen@liacs.leidenuniv.nl,+31 71 527 2727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BE2.12,
+Nadia van der Valk,Study adviser,s.n.van.der.valk@liacs.leidenuniv.nl,071 5272727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BE2.08,
+Liselotte van der Woerd,Management/office-assistant,l.van.der.woerd@liacs.leidenuniv.nl,+31 71 527 4799,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BE3.19,
+Kirsten Zwaan,Secretary to the Board of Examiners,k.a.zwaan@science.leidenuniv.nl,+31 71 527 2727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number C.0.09,
+Wendy Aartsen,Project manager / guest,w.m.aartsen@umail.leidenuniv.nl,+31 71 527 1718,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,
+Amin Abolghasemi,PhD candidate,m.a.abolghasemi@liacs.leidenuniv.nl,+31 71 527 4799,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BE2.24,
+Erman Acar,Guest Postdoc,e.acar@liacs.leidenuniv.nl,+31 71 527 4799,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,
+Zhengtian Ai,PhD candidate / guest,z.ai@liacs.leidenuniv.nl,071 5277058,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,
+jafar Akhoundali,PhD candidate,j.akhoundali@liacs.leidenuniv.nl,+31 71 527 2727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BM3.20,
+Anne-Marie Alleblas,Secretary,a.alleblas@liacs.leidenuniv.nl,+31 71 527 4799,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BE3.23,
+Natalia Amat Lefort,Lecturer,n.amat.lefort@liacs.leidenuniv.nl,+31 71 527 2727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BE2.27,"business analytics, consumer experience, service research, strategy & operations"
+Marie Anastacio,PhD candidate,m.i.a.anastacio@liacs.leidenuniv.nl,+31 71 527 4799,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,
+Kirill Antonov,PhD candidate,k.antonov@liacs.leidenuniv.nl,+31 71 527 4799,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BE4.25,
+Ana Cristina Arcos Marin,PhD candidate,a.c.arcos.marin@liacs.leidenuniv.nl,+31 71 527 2727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,"astronomy, bio-imaging, deep learning, life science, zebrafish"
+Laurens Arp,PhD candidate,l.r.arp@liacs.leidenuniv.nl,+31 71 527 4799,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BE4.01,
+Arian Askari,PhD candidate,a.askari@liacs.leidenuniv.nl,+31 71 527 4799,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BE2.24,
+Erwin Bakker,Researcher,e.m.bakker@liacs.leidenuniv.nl,+31 71 527 7115,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BE2.05,
+Juriaan Bakx,Ict developer,j.bakx@liacs.leidenuniv.nl,+31 71 527 4331,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BW3.08,
+Rahul Bandyopadhyay,PhD candidate,r.bandyopadhyay@liacs.leidenuniv.nl,+31 71 527 2727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,"quantum computation, quantum information theory, quantum machine learning"
+Mitra Baratchi,Associate professor,m.baratchi@liacs.leidenuniv.nl,+31 71 527 7492,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BM4.09,artificial intelligence
+Giulio Barbero,PhD candidate,g.barbero@liacs.leidenuniv.nl,+31 71 527 4799,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BM3.18,
+Francesco Bariatti,Postdoc,f.bariatti@liacs.leidenuniv.nl,+31 71 527 7052,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BE3.09,
+Mariam Basajja,PhD candidate / Guest,m.basajja@liacs.leidenuniv.nl,+31 71 527 2727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,
+Juan Bascur Cifuentes,External PhD candidate,j.p.bascur.cifuentes@cwts.leidenuniv.nl,+31 71 527 2727,Willem Einthoven Kolffpad 1 2333 BN Leiden Room number B4.44,
+Henning Basold,Assistant professor,h.basold@liacs.leidenuniv.nl,+31 71 527 6435,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BM2.11,
+Joost Batenburg,Professor Computer science,k.j.batenburg@liacs.leidenuniv.nl,+31 71 527 6985,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BE4.08,"algebra, artificial intelligence, computational drug design, computational imaging, geometry, number theory, tomography"
+Arie Benschop,Administrative employee / Guest,a.benschop@liacs.leidenuniv.nl,+31 71 527 2727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BE3.23,
+Mark van den Bergh,Lecturer,m.j.h.van.den.bergh@liacs.leidenuniv.nl,+31 71 527 2727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,
+Andrius Bernatavicius,PhD candidate,a.bernatavicius@liacs.leidenuniv.nl,+31 71 527 4799,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,
+Sanae Bihaki-,Department manager,s.bihaki@science.leidenuniv.nl,+31 71 527 2727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BE 3.1,
+Arianna Bisazza,Assistant Professor / guest,a.bisazza@liacs.leidenuniv.nl,+31 71 527 4799,,
+Alexandra Blank,Study adviser,a.blank@liacs.leidenuniv.nl,+31 71 527 1067,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BE2.10,
+Miguel Blom,PhD candidate,m.o.blom@liacs.leidenuniv.nl,+31 71 527 4799,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BM3.22,
+Hanjo Boekhout,PhD candidate,h.d.boekhout@liacs.leidenuniv.nl,+31 71 527 4799,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BE2.23,
+Frank de Boer,Professor emeritus Software Correctness,f.s.de.boer@liacs.leidenuniv.nl,+31 71 527 2727,,
+Vasilii Bokov,PhD candidate,v.bokov@liacs.leidenuniv.nl,+31 71 527 2727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,"kernel methods, quantum networks, quantum optimization algorithms, supervised quantum machine learning"
+Eszter Bokányi,Postdoc,e.bokanyi@liacs.leidenuniv.nl,+31 71 527 2727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,
+Marcello Bonsangue,Scientific Director / Professor Computer Science,m.m.bonsangue@liacs.leidenuniv.nl,+31 71 527 7095,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BE3.11,"algorithms, coordination language, formal methods, program verification, theory of computing"
+Gijsbert Boon,PhD candidate / self funded,g.c.boon@liacs.leidenuniv.nl,071 5272727,,
+Richelle Boone,PhD candidate / Guest,r.n.boone@liacs.leidenuniv.nl,+31 71 527 2727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,
+Annelot Bosman,PhD candidate,a.w.bosman@liacs.leidenuniv.nl,+31 71 527 4799,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BE4.03,"ai safety, artificial intelligence, neural networks"
+Marianne Bossema,PhD candidate / contract,m.bossema@liacs.leidenuniv.nl,+31 71 527 2727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BM3.31,
+Abdeljalil el Boujadayni,Administrator,a.el.boujadayni@liacs.leidenuniv.nl,+31 71 527 7096,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BE3.15,
+Boet Bouten,Student assistant,b.bouten@liacs.leidenuniv.nl,+31 71 527 2727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,
+Murad Bozik,PhD student,m.h.bozik@liacs.leidenuniv.nl,+31 71 527 2727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,"expressive speech synthesis, novel speaker generation, text-to-speech"
+Sebastiaan Brand,PhD student,s.o.brand@liacs.leidenuniv.nl,+31 71 527 2727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BM2.23,
+Ilja van den Brandt,Study adviser,i.van.den.brandt@liacs.leidenuniv.nl,+31 71 527 2727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BE2.08,
+Joost Broekens,Associate Professor,d.j.broekens@liacs.leidenuniv.nl,+31 71 527 7139,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BE3.04,artificial intelligence
+Caroline de Bruin,Director of Operations,c.j.de.bruin@liacs.leidenuniv.nl,+31 6 3416 1213,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BE3.13,
+Thomas Bäck,Professor of Natural Computing,t.h.w.baeck@liacs.leidenuniv.nl,+31 71 527 7108,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BE4.27,"artificial intelligence, evolutionary computation, explainable artificial intelligence, health, machine learning, multiple criteria decision making, optimization, predictive maintenance, smart industry, sustainable production"
+Lu Cao,Assistant Professor,l.cao@liacs.leidenuniv.nl,+31 71 527 8921,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BE3.20,artificial intelligence
+Esme Caubo,Education coordinator / study adviser,e.caubo@liacs.leidenuniv.nl,+31 71 527 5298,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BE2.12,
+Vincent Cellucci,PhD candidate / self funded,v.a.cellucci@liacs.leidenuniv.nl,071 5272727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,
+Alberto Ceria-,Postdoc,a.ceria@liacs.leidenuniv.nl,+31 71 527 2727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BE3.03,"higher-order networks, network science, temporal networks"
+Mojgan Chaichian Maleki,PhD candidate,m.chaichian.maleki@liacs.leidenuniv.nl,+31 71 527 2727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,"community-based health interventions, health inequities, personalized preventive healthcare, poverty and health outcomes, trust and adherence in healthcare"
+Bei Chen,PhD candidate / contract,c.bei@liacs.leidenuniv.nl,+31 71 527 2727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,
+Qinyu Chen,Assistant professor,q.chen@liacs.leidenuniv.nl,+31 71 527 2727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BM3.05,"ar/vr, circuit design, edge ai, event-based vision, hardware-software co-design, healthcare, neuromorphic computing"
+Wei Chen,PhD candidate / guest,w.chen@liacs.leidenuniv.nl,,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,
+Yi Chen,PhD candidate,y.chen@liacs.leidenuniv.nl,+31 71 527 8920,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,
+Wenjing Chu,PhD candidate/ Guest,w.chu@liacs.leidenuniv.nl,+31 71 527 2727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,
+Tim Coopmans,Postdoc,t.j.coopmans@liacs.leidenuniv.nl,071 5274799,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BM2.13,
+Walter Crist III,Lecturer,w.l.crist.iii@hum.leidenuniv.nl,+31 71 527 2727,Arsenaal Arsenaalstraat 1 2311 CT Leiden Room number B1.01,
+Vincent Croft-,Postdoc,v.a.croft@liacs.leidenuniv.nl,+31 71 527 4799,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,"big data, data analysis, quantum algorithms, quantum machine learning, statistical learning"
+Dominika Czerniawska,Postdoc,d.czerniawska@liacs.leidenuniv.nl,+31 71 527 4799,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BE3.01,
+Anna Dawid-Lekowska,Assistant professor,a.m.dawid@liacs.leidenuniv.nl,+31 71 527 2727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,"explainable artificial intelligence, interpretable machine learning, machine learning, quantum simulation, ultracold physics"
+Ed Deprettere,Professor emeritus of Information technology,e.f.a.deprettere@liacs.leidenuniv.nl,+31 71 527 4799,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,
+Riet Derogee,Education coordinator,m.derogee@liacs.leidenuniv.nl,+31 71 527 5780,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BE2.06,
+Andre Deutz,Lecturer / guest,a.h.deutz@liacs.leidenuniv.nl,+31 71 527 7071,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BE4.18,
+Bram van Dijk,Guest,b.m.a.van.dijk@liacs.leidenuniv.nl,+31 71 527 2727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,
+Richard van Dijk,Research Software Engineer,m.k.van.dijk@liacs.leidenuniv.nl,+31 71 527 4799,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BE2.20,
+Hazel Doughty,Assistant professor,h.r.doughty@liacs.leidenuniv.nl,+31 71 527 2727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BE4.10,"skill determination, video understanding"
+Feibo Duan,PhD candidate / guest,f.duan@liacs.leidenuniv.nl,,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,
+Max van Duijn,Assistant professor,m.j.van.duijn@liacs.leidenuniv.nl,+31 71 527 7903,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BE316,artificial intelligence
+Vedran Dunjko,Professor in Quantum Computing,v.dunjko@liacs.leidenuniv.nl,+31 71 527 2873,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BE2.01,
+Luc Edixhoven,Lecturer,l.j.edixhoven@liacs.leidenuniv.nl,+31 71 527 4799,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BM2.01,
+Linus Ekstrøm,Self Funded PhD Candidate / Guest,l.ekstrom@liacs.leidenuniv.nl,071 5272727,,
+Soufian El Yadmani,External PhD candidate,s.el.yadmani@liacs.leidenuniv.nl,071 5274799,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BM3.12,
+Sebastian Ellmaier,PhD candidate / self funded,m.r.ellmaier@liacs.leidenuniv.nl,071 5272727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,
+Michael Emmerich,Guest researcher,m.t.m.emmerich@liacs.leidenuniv.nl,+31 71 527 2727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,artificial intelligence
+Joost Engelfriet,Associate professor / guest,j.engelfriet@liacs.leidenuniv.nl,+31 71 527 4799,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,
+Irina Epure,Technician,i.m.epure@liacs.leidenuniv.nl,+31 71 527 2727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,
+Linda van Erp-van Genderen,Education coordinator,l.p.c.van.erp@liacs.leidenuniv.nl,+31 71 527 2727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BE214,
+Sebastian Fajardo Bernal,Postdoc,s.d.fajardo.bernal@liacs.leidenuniv.nl,+31 71 527 2727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BE3.01,"anthropological theory, artificial intelligence, computational modelling, evolution, settlement patterns, technological complexity"
+Yingjie Fan,Assistant Professor,y.fan@liacs.leidenuniv.nl,+31 71 527 4799,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BE4.20,"behavioral operations research, data-driven modeling, machine learning, multi-objective optimization, robust optimization, stochastic programming"
+Marc Farreras I Bartra,PhD candidate,m.farreras.i.bartra@liacs.leidenuniv.nl,+31 71 527 2727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,"compilation methods, quantum computing, tensor networks, zx calculus"
+Khashayar Fathinejad,PhD candidate / Marie Curie fellow,k.fathinejad@liacs.leidenuniv.nl,+31 71 527 2727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BE4.07,
+Fatemeh Fazel Hesar,PhD candidate / self funded,f.fazel.hesar@liacs.leidenuniv.nl,071 5272727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,
+Hui Feng,PhD candidate/ guest,h.feng@liacs.leidenuniv.nl,+31 71 527 4799,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,
+Lucas Ferreira Correia,Guest PhD candidate / Self Funded,l.ferreira.correia@liacs.leidenuniv.nl,071 5274799,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,
+Oisin Flynn-Connolly,Postdoc,o.c.flynn.connolly@liacs.leidenuniv.nl,071 5272727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,
+Chase Ford,Postdoc,m.c.ford@liacs.leidenuniv.nl,+31 71 527 2727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BM2.13,
+Felix Frohnert,PhD candidate,f.frohnert@liacs.leidenuniv.nl,+31 71 527 2727,Huygens Niels Bohrweg 2 2333 CA Leiden,"computational physics, condensed matter physics, machine learning, quantum algorithms, quantum computing"
+Lennard Froma,PhD candidate,l.c.froma@liacs.leidenuniv.nl,+31 71 527 2727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,"hybrid ai, interactive inspection"
+Olga Gadyatskaya,Associate professor,o.gadyatskaya@liacs.leidenuniv.nl,+31 71 527 7033,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BM3.07,"cyber security, ethics, mobile security, organizational security, secure software engineering, security risk"
+Daniela Gawehns,PhD candidate/ Guest,d.gawehns@liacs.leidenuniv.nl,+31 71 527 2727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BM2.14,
+Joyce Glerum,Education coordinator,j.a.j.glerum@liacs.leidenuniv.nl,+31 71 527 3613,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BE2.06,
+Mary Go,PhD candidate / Marie Curie fellow,m.c.r.go@liacs.leidenuniv.nl,+31 71 527 2727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BE4.16,"artificial intelligence, tomography"
+Jonne Goedhart,Technician,j.j.goedhart@liacs.leidenuniv.nl,+31 71 527 2727,Gorlaeus Faculty Office Einsteinweg 55 2333 CC Leiden Room number BE2.20,
+Olivier Goletti,PhD candidate / Guest,o.x.r.goletti@liacs.leidenuniv.nl,+31 71 527 6124,Snellius Niels Bohrweg 1 2333 CA Leiden Room number 142,
+Sacha Goultiaev,Guest,a.p.goultiaev@liacs.leidenuniv.nl,+31 71 527 2727,,
+Vianney Govers,ICT manager,h.m.v.c.govers@liacs.leidenuniv.nl,+31 71 527 7039,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,
+Jeannette de Graaf,Assistant professor,j.m.de.graaf@liacs.leidenuniv.nl,+31 71 527 7051,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BM2.09,
+Adriaan Graas,PhD Candidate / self funded,a.b.m.graas@liacs.leidenuniv.nl,071 5274799,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,
+Xiaotian Guo,PhD candidate / guest,x.guo@liacs.leidenuniv.nl,+31 71 527 4799,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BM3.12,
+Burak Gülmez,Postdoc/ Guest,b.gulmez@liacs.leidenuniv.nl,+31 71 527 2727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BE4.25,
+Max van Haastrecht,PhD candidate,m.a.n.van.haastrecht@liacs.leidenuniv.nl,+31 71 527 4799,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BM2.16,"cyber security, data science, statistics, validation"
+Lifeng Han,Lecturer,l.han@liacs.leidenuniv.nl,071 5272727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BE2.17,
+Bas Haring,Professor Public Understanding of Science,s.haring@liacs.leidenuniv.nl,+31 71 527 7033,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,
+Alan Kai Hassen,Guest PhD candidate,a.k.hassen@liacs.leidenuniv.nl,+31 71 527 4799,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BM3.31,"cheminformatics, computer-aided synthesis planning, deep learning, reinforcement learning, retrosynthesis"
+Mischa Hautvast,Project coordinator,m.hautvast@liacs.leidenuniv.nl,+31 71 527 6985,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BE3.17,
+Kai He,PhD candidate / Contract,k.he@liacs.leidenuniv.nl,+31 71 527 4799,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BM3.33,
+Nina Hefele,Management assistant,n.hefele@liacs.leidenuniv.nl,+31 71 527 2727,Oort Niels Bohrweg 2 2333 CA Leiden Room number 237,
+Steef Hegeman,PhD candidate,s.hegeman@liacs.leidenuniv.nl,+31 71 527 2727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BM2.23,
+Edwin van der Heide,Lecturer,e.f.van.der.heide@liacs.leidenuniv.nl,+31 71 527 7033,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BE3.12,
+Mariska Heijmen,Knowledge valorization staff member,m.heijmen@liacs.leidenuniv.nl,+31 71 527 4799,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BE3.02,
+Werner Heijstek,Lecturer,w.heijstek@liacs.leidenuniv.nl,+31 71 527 4799,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BE2.27,
+Leon Helwerda,PhD candidate,l.s.helwerda@liacs.leidenuniv.nl,+31 71 527 4799,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,
+George Hendrikse,Lecturer/guest,g.w.j.hendrikse@liacs.leidenuniv.nl,+31 71 527 7035,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,
+Marc Hilbert,Lecturer / guest,m.hilbert@liacs.leidenuniv.nl,+31 71 527 5298,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,
+Bernhard Hilpert,PhD candidate,b.hilpert@liacs.leidenuniv.nl,+31 71 527 7139,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BM3.18,
+Hendrik Jan Hoogeboom,Associate professor,h.j.hoogeboom@liacs.leidenuniv.nl,+31 71 527 7062,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BM2.05,
+Holger Hoos,Professor of Machine Learning,h.h.hoos@liacs.leidenuniv.nl,+31 71 527 5777,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BM4.11,"artificial intelligence, computer science"
+Hsini Huang,Assistant professor,h.i.huang@fgga.leidenuniv.nl,+31 70 800 9500,Wijnhaven Turfmarkt 99 2511 DP The Hague,
+Qi Huang,PhD candidate,q.huang@liacs.leidenuniv.nl,+31 71 527 4799,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BE4.17,
+Dani Irawan,PhD candidate / guest,d.irawan@liacs.leidenuniv.nl,071 5277061,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,
+Mehrdad Jahanbanifard,PhD candidate / Guest,m.jahanbanifard@liacs.leidenuniv.nl,+31 71 527 4799,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,
+Judith Janssen,Student affairs staff member,j.janssen@liacs.leidenuniv.nl,+31 71 527 4799,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BE2.02,
+Mart Janssen,Postdoc / guest,m.p.janssen@liacs.leidenuniv.nl,+31 71 527 4799,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,
+Shima Javanmardi,Education and research staff member,s.javanmardi@liacs.leidenuniv.nl,+31 71 527 4799,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,
+Xinyuan Ji-,PhD candidate / self funded,x.ji@liacs.leidenuniv.nl,071 5272727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,
+Keyan Jin,,k.jin@liacs.leidenuniv.nl,+31 71 527 4799,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,"bibliometrics, information retrieval, scientific novelty"
+Rachel de Jong,PhD candidate,r.g.de.jong@liacs.leidenuniv.nl,+31 71 527 4799,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BE3.03,
+Simcha Jong Kon Chin,Professor of Science-based business,s.jong@liacs.leidenuniv.nl,+31 71 527 7201,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,"entrepreneurship, global health, global r&d networks, healthcare management, international scientific consortia, precision medicine, science based business, technology management, technology transfer"
+Catholijn Jonker,Professor/Guest,c.m.jonker@liacs.leidenuniv.nl,+31 71 527 7115,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,artificial intelligence
+Kristoffer Kalavainen,Lecturer,m.k.k.kalavainen@liacs.leidenuniv.nl,+31 71 527 2727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BM2.14,
+Tobias Kappé,Assistant professor,t.w.j.kappe@liacs.leidenuniv.nl,+31 71 527 2727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,"concurrent control flow, deterministic control flow, kleene algebra, probabilistic control flow, proces algebra, program equivalence"
+Sengim Karayalcin,PhD candidate,s.karayalcin@liacs.leidenuniv.nl,+31 71 527 2727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BM3.13,
+Yuliia Kazmina,PhD candidate / guest,y.kazmina@liacs.leidenuniv.nl,+31 71 527 2727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,
+Marie Kempkes,PhD candidate / self funded,m.c.kempkes@liacs.leidenuniv.nl,071 5274799,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,
+Nurbolat Kenbayev,Guest,n.kenbayev@liacs.leidenuniv.nl,+31 71 527 2727,,"quantum algorithms, quantum information theory, quantum machine learning, reinforcement learning"
+Samar Khalil,PhD candidate / self funded,s.s.khalil.2@liacs.leidenuniv.nl,071 5272727,,
+Maximilian Kiss,PhD candidate / self funded,m.b.kiss@liacs.leidenuniv.nl,071 5272727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BM3.33,
+Sofoklis Kitharidis,PhD candidate,s.kitharidis@liacs.leidenuniv.nl,+31 71 527 2727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,
+Jetty Kleijn,Professor Emeritus Theoretical Computing Science,h.c.m.kleijn@liacs.leidenuniv.nl,+31 71 527 2727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BM2.09,
+Felix Kleuker,PhD candidate,j.f.kleuker@liacs.leidenuniv.nl,+31 71 527 2727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BE4.23,
+Arno Knobbe,Associate professor,a.j.knobbe@liacs.leidenuniv.nl,+31 71 527 8919,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BE213,artificial intelligence
+Veysel Kocaman,PhD candidate / guest,v.kocaman@liacs.leidenuniv.nl,+31 71 527 7061,Snellius Niels Bohrweg 1 2333 CA Leiden,
+Rob Konijn,Guest,r.m.konijn@liacs.leidenuniv.nl,+31 71 527 2727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,
+Anna Kononova,Assistant professor,a.kononova@liacs.leidenuniv.nl,+31 71 527 4799,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BE4.15,
+Jan Kooiman,Lecturer / guest,j.m.kooiman@liacs.leidenuniv.nl,+31 71 527 2727,,
+Walter Kosters,Associate professor,w.a.kosters@liacs.leidenuniv.nl,+31 71 527 7059,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BM2.07,
+Dimitra Kouimtzidou,Project leader,d.kouimtzidou@liacs.leidenuniv.nl,+31 71 527 7057,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BE3.02,
+Tom Kouwenhoven,PhD candidate,t.kouwenhoven@liacs.leidenuniv.nl,+31 71 527 4799,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BM3.18,"artificial intelligence, cognitive psychology, language evolution, machine learning"
+Wessel Kraaij,Professor of Applied data analytics,w.kraaij@liacs.leidenuniv.nl,+31 71 527 5778,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BE2.09,"artificial intelligence, computer science, data analytics, data science, information retrieval"
+Sanne van Kralingen,Department manager,s.van.kralingen@liacs.leidenuniv.nl,+31 71 527 2727,Snellius Niels Bohrweg 1 2333 CA Leiden Room number BE.3.2,
+Bas Kruiswijk,Lecturer,j.b.kruiswijk@liacs.leidenuniv.nl,+31 71 527 4799,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BE2.27,
+Eva van der Kruk,Department manager,e.m.van.der.kruk@liacs.leidenuniv.nl,+31 71 527 2951,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BE2.04,
+Jan Krzywda,Postdoc,j.a.krzywda@liacs.leidenuniv.nl,+31 71 527 2727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,
+Arina Kudriavtseva,PhD candidate,a.kudriavtseva@liacs.leidenuniv.nl,+31 71 527 4799,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BM3.20,
+Solomiia Kurchaba,Guest Postdoc,s.kurchaba@liacs.leidenuniv.nl,+31 71 527 2727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,
+Andrii Kurkin,PhD candidate,a.kurkin@liacs.leidenuniv.nl,+31 71 527 2727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,
+Pieter Kwantes,Guest,p.m.kwantes@liacs.leidenuniv.nl,+31 71 527 2727,,
+Matthias König,PhD candidate,h.m.t.konig@liacs.leidenuniv.nl,+31 71 527 2727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,
+Robin van der Laag,PhD candidate,r.p.van.der.laag@liacs.leidenuniv.nl,+31 71 527 2727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,
+Alfons Laarman,Associate professor,a.w.laarman@liacs.leidenuniv.nl,+31 71 527 5775,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BE2.03,
+Evani Lachmansingh,PhD candidate,e.t.lachmansingh@liacs.leidenuniv.nl,+31 71 527 2727,Snellius Niels Bohrweg 1 2333 CA Leiden,"artificial intelligence, chemistry, drug discovery"
+Ron Lameij,Lecturer,r.lameij@liacs.leidenuniv.nl,+31 71 527 4799,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,
+Christiaan Lamers,Guest PhD candidate / self funded,c.h.c.b.lamers@liacs.leidenuniv.nl,071 5274799,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BE4.24,
+Maarten Lamers,Assistant Professor,m.h.lamers@liacs.leidenuniv.nl,+31 71 527 7033,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BE3.12,"artificial intelligence, creativity, robots"
+Anna Langedijk,PhD candidate,a.langedijk@liacs.leidenuniv.nl,+31 71 527 2727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,
+Mingrui Lao,PhD candidate/guest,m.lao@liacs.leidenuniv.nl,+31 71 527 7077,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BM3.33,
+Joon Hyung Lee,Postdoc,j.h.lee@liacs.leidenuniv.nl,+31 71 527 2727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,"combinatorics, quantum algorithms, random graphs, random matrices, satisfiability"
+Matthijs van Leeuwen,Associate professor/Director of Education,m.van.leeuwen@liacs.leidenuniv.nl,+31 71 527 7048,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BE3.05,"algorithms, data mining, data science, explainable artificial intelligence, interpretable models, machine learning, unsupervised learning"
+Paul van Leeuwen,Lecturer,p.van.leeuwen@liacs.leidenuniv.nl,+31 71 527 4799,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,
+Armel Lefebvre,Postdoc / Guest,a.e.j.l.lefebvre@liacs.leidenuniv.nl,+31 71 527 2727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BE2.07,
+Michael Lew,Professor Deep Learning,m.s.lew@liacs.leidenuniv.nl,+31 71 527 7034,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BE4.06,"artificial intelligence, computer vision, deep learning, machine learning, multi modal learning"
+Pieter Leyman,Postdoc,p.leyman@liacs.leidenuniv.nl,+31 71 527 2727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,
+Jia Li,PhD candidate / Guest,j.li@liacs.leidenuniv.nl,+31 71 527 4799,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,
+Rui Li,,r.li@liacs.leidenuniv.nl,+31 71 527 4799,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BM3.20,
+Xishu Li,Assistant professor,x.li@liacs.leidenuniv.nl,+31 71 527 4799,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,
+Yujie Li,Contract PhD Candidate / Guest,y.li@liacs.leidenuniv.nl,071 5272727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BM2.14,
+Zhong Li,PhD candidate,z.li@liacs.leidenuniv.nl,+31 71 527 4799,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,
+Yuchen Lian,PhD candidate / guest,y.lian@liacs.leidenuniv.nl,+31 71 527 7050,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BM3.31,
+I-Fan Lin,PhD candidate,i.lin@liacs.leidenuniv.nl,+31 71 527 2727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BE2.24,"conversational intelligence, machine learning, natural language processing"
+Yi Lin,,y.lin@liacs.leidenuniv.nl,+31 71 527 4799,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BM3.31,
+Badia Liokouras,PhD candidate,a.b.liokouras@liacs.leidenuniv.nl,+31 71 527 2727,Snellius Niels Bohrweg 1 2333 CA Leiden,
+Kaiting Liu,PhD candidate,k.liu@liacs.leidenuniv.nl,+31 71 527 2727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,
+Wei Liu,Contract PhD Candidate / Guest,w.liu@liacs.leidenuniv.nl,+31 71 527 2727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BE4.24,
+Fu Long,PhD Candidate / Self Funded,f.x.long@liacs.leidenuniv.nl,071 5274799,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,
+Jingmin Long,PhD candidate / contract,j.long@liacs.leidenuniv.nl,+31 71 527 4799,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,
+Mark van der Loo,Postdoc/ Guest,m.p.j.van.der.loo@liacs.leidenuniv.nl,+31 71 527 7050,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BE2.23,
+Guorui Lu,PhD candidate,g.lu@liacs.leidenuniv.nl,+31 71 527 2727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,"ai for healthcare, physiological signal processing"
+Chuan Luo,Guest Staff Member,c.luo@liacs.leidenuniv.nl,+31 71 527 4799,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,
+Christiane Luttikhuizen,Project leader,c.j.a.luttikhuizen@liacs.leidenuniv.nl,+31 71 527 2727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BE3.02,
+Sylvia Maas,Management assistant,s.v.maas@liacs.leidenuniv.nl,+31 71 527 7058,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BE4.26,
+Muhammad Mahmoud,Postdoc,m.o.mahmoud@liacs.leidenuniv.nl,+31 71 527 2727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,
+Eleftheria Makri,Assistant professor,e.makri@liacs.leidenuniv.nl,+31 71 527 2727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BM3.03,"computing on encrypted data, homomorphic encryption, multiparty computation, privacy-enhancing technologies, secure computation"
+Stefan Manegold,Professor Computer science,s.manegold@liacs.leidenuniv.nl,+31 71 527 4799,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,
+Shane Mannion,Guest,s.mannion@liacs.leidenuniv.nl,+31 71 527 2727,,
+Simon Marshall,PhD candidate,s.c.marshall@liacs.leidenuniv.nl,+31 71 527 2727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,"circuit-cutting, machine learning, quantum computing"
+Jan Martens,Postdoc,j.j.m.martens@liacs.leidenuniv.nl,+31 71 527 2727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,
+Irene Martorelli,PhD candidate,i.martorelli@liacs.leidenuniv.nl,+31 71 527 4799,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,bioinformatica
+Danica Mast,PhD candidate / guest,d.mast@liacs.leidenuniv.nl,+31 71 527 7031,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BM3.31,
+Michiel van der Meer,Guest,m.t.van.der.meer@liacs.leidenuniv.nl,+31 71 527 2727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,
+Rens Meerhoff,Postdoc/ Guest,l.a.meerhoff@liacs.leidenuniv.nl,+31 71 527 2727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,
+Quinten Meertens,Guest,q.a.meertens@fsw.leidenuniv.nl,+31 71 527 2727,,
+Sumiran Mehra,PhD candidate,s.mehra@liacs.leidenuniv.nl,+31 71 527 4799,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BM3.12,
+Fatemeh Mehrafrooz Mayvan,PhD candidate,f.mehrafrooz.mayvan@liacs.leidenuniv.nl,+31 71 527 2727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BM3.12,"embedded machine learning, embedded systems, hardware security"
+Jingyi Mei,PhD candidate,j.mei@liacs.leidenuniv.nl,+31 71 527 2727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BM2.23,
+Qianru Meng,PhD candidate / Guest,q.r.meng@liacs.leidenuniv.nl,+31 71 527 4799,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BM2.14,
+Nele Mentens,Professor Computer Science,n.mentens@liacs.leidenuniv.nl,+31 71 527 4799,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BM3.01,"artificial intelligence, cryptography, cyber security"
+André Mesquita Fery Antunes,PhD candidate / Marie Curie fellow,a.r.mesquita.fery.antunes@liacs.leidenuniv.nl,+31 71 527 2727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,"computed tomography, deep learning, image processing, quality enhancement, x-ray scattering"
+Anna van der Meulen,Study adviser,a.n.van.der.meulen@liacs.leidenuniv.nl,+31 71 527 1067,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BE2.10,
+Ramira van der Meulen,PhD candidate,a.van.der.meulen@liacs.leidenuniv.nl,+31 71 527 2727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BM3.18,"agent simulations, artificial intelligence, human-ai interaction, theory of mind"
+Thomas Moerland,Assistant professor,t.m.moerland@liacs.leidenuniv.nl,+31 71 527 4799,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BE4.09,
+Sina Mohammadi,Postdoc,s.mohammadi@liacs.leidenuniv.nl,+31 71 527 2727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,
+Riccardo Molteni,PhD candidate,r.molteni@liacs.leidenuniv.nl,+31 71 527 2727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,
+Matthias Müller-Brockhausen,PhD candidate,m.f.t.muller-brockhausen@liacs.leidenuniv.nl,+31 71 527 2727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BM3.31,
+Mahnaz Namazi Rizi,PhD candidate,m.namazi.rizi@liacs.leidenuniv.nl,+31 71 527 4799,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BM3.12,
+Marloes van der Nat,Official secretary Board of Examiners/International Coordinator,m.van.der.nat@liacs.leidenuniv.nl,+31 71 527 7061,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BE3.26,
+Florian Neukart,Assistant professor,f.neukart@liacs.leidenuniv.nl,+31 71 527 4799,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,
+Anh Nguyen,PhD candidate/guest,d.a.nguyen@liacs.leidenuniv.nl,+31 71 527 4799,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,
+Evert van Nieuwenburg,Assistant Professor,e.p.l.van.nieuwenburg@liacs.leidenuniv.nl,+31 71 527 5523,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BE2.01,"computational physics, condensed matter physics, machine learning, quantum algorithms, quantum control, quantum games, reinforcement learning"
+Sam van Nieuwenhuijze,Policy officer,s.van.nieuwenhuijze@liacs.leidenuniv.nl,+31 71 527 2727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,
+Rob van Nieuwpoort,Professor Efficient Computing and eScience,r.v.van.nieuwpoort@liacs.leidenuniv.nl,,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BW3.06,
+Jacob de Nobel,PhD candidate,j.p.de.nobel@liacs.leidenuniv.nl,+31 71 527 4799,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BE4.11,
+Tyron Offerman,Postdoc / guest,t.d.offerman@liacs.leidenuniv.nl,+31 71 527 5792,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BE2.27,
+Ivan Olarte Rodriguez,PhD candidate,i.olarte.rodriguez@liacs.leidenuniv.nl,+31 71 527 2727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,
+Alexander Ollongren,Professor emeritus of Computer science,a.ollongren@liacs.leidenuniv.nl,+31 71 527 4799,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,
+Gerard van Oortmerssen,Postdoc / guest,g.van.oortmerssen@liacs.leidenuniv.nl,,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,
+Willem Jan Palenstijn,Ict developer,w.j.palenstijn@liacs.leidenuniv.nl,+31 71 527 2727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BE2.16,
+Shuaiqun Pan,PhD candidate / contract,s.pan@liacs.leidenuniv.nl,+31 71 527 4799,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BE4.24,
+Dalia Papuc,Researcher / Guest,d.papuc@liacs.leidenuniv.nl,071 5272727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BM2.01,
+Stylianos Paraschiakos,PhD candidate / guest,s.paraschiakos@liacs.leidenuniv.nl,+31 71 527 8927,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,
+Andreas Paraskeva,PhD candidate,a.paraskeva@liacs.leidenuniv.nl,+31 71 527 2727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BE4.05,automated machine learning
+Yash Patel,Postdoc,y.j.patel@liacs.leidenuniv.nl,+31 71 527 7058,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,
+Erick Paulus,PhD candidate / Guest,e.paulus@liacs.leidenuniv.nl,+31 71 527 4799,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,
+Daan Pelt,Assistant Professor,d.m.pelt@liacs.leidenuniv.nl,+31 71 527 4799,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BE4.12,
+António Pereira Barata,Postdoc/guest,a.p.pereira.barata@liacs.leidenuniv.nl,+31 71 527 7050,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,
+Luis Pereiro,Guest Lecturer,l.e.pereiro@liacs.leidenuniv.nl,+31 71 527 4799,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,
+Ksenia Pereverdieva,PhD candidate,k.g.pereverdieva@liacs.leidenuniv.nl,+31 71 527 4799,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BE4.17,
+Guilherme Perin,Lecturer,g.perin@liacs.leidenuniv.nl,+31 71 527 2727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,"applied cryptography, deep learning, hardware security, optimization algorithms, side-channel analysis"
+Stefan Pickl,Guest/Professor,s.w.pickl@liacs.leidenuniv.nl,+31 71 527 5298,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,
+Aske Plaat,Professor of Data science,a.plaat@liacs.leidenuniv.nl,+31 71 527 7065,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BE4.21,"artificial intelligence, big data, causality, computer science, data science, deep learning, deep reinforcement learning, explainable artificial intelligence, games, machine learning, multi-agent systems, reinforcement learning"
+Laurens Polet,Student affairs staff member,l.c.f.polet@liacs.leidenuniv.nl,+31 71 527 4551,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BE2.02,
+Koen Ponse,PhD candidate,k.ponse@liacs.leidenuniv.nl,+31 71 527 2727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BE4.23,
+Tobias Preintner,PhD candidate / self funded,t.p.preintner@liacs.leidenuniv.nl,071 5272727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,
+Mike Preuss,Associate professor,m.preuss@liacs.leidenuniv.nl,+31 71 527 2727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BE3.06,artificial intelligence
+Sebastian Kazmarek Præsius,PhD candidate / guest,s.k.praesius@liacs.leidenuniv.nl,+31 71 527 2727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,
+Nan Pu,PhD candidate / guest,n.pu@liacs.leidenuniv.nl,+31 71 527 7077,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,
+Peter van der Putten,Assistant professor,p.w.h.van.der.putten@liacs.leidenuniv.nl,+31 71 527 7033,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BE3.14,
+Jiawen QI,PhD candidate,j.qi@liacs.leidenuniv.nl,071 5272727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,"hardware - software co-optimization of large language models, low bit models"
+Arend-Jan Quist,PhD candidate,a.quist@liacs.leidenuniv.nl,+31 71 527 2727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BM2.23,"quantum algorithms, quantum compilation, quantum computing, quantum simulation"
+Niloofar Raeyatdoost,External PhD candidate / Guest,n.raeyatdoost@liacs.leidenuniv.nl,071 5274799,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,
+Tanjona Ralaivaosaona,PhD candidate,t.f.r.ralaivaosaona@liacs.leidenuniv.nl,+31 71 527 4799,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BM2.23,
+Guus Ramackers,Assistant professor,g.j.ramackers@liacs.leidenuniv.nl,+31 71 527 7036,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BE2.22,
+Mohammad Taghi Ramezan Zadeh,Lecturer / Guest,m.t.ramezan.zadeh@liacs.leidenuniv.nl,,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,
+Elena Raponi,Assistant professor,e.raponi@liacs.leidenuniv.nl,+31 71 527 2727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BE4.19,
+Nicolette Remmerswaal,Management assistant,n.p.m.remmerswaal@liacs.leidenuniv.nl,+31 71 527 5792,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BE3.19,
+Zhaochun Ren,Associate professor,z.ren@liacs.leidenuniv.nl,+31 71 527 2727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BE211,
+Bram Renting,PhD candidate,b.m.renting@liacs.leidenuniv.nl,+31 71 527 2727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,
+Samira Rezaei Badafshani,Postdoc,s.rezaei.badafshani@liacs.leidenuniv.nl,+31 71 527 4799,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BM4.11,
+Kristian Rietveld,Assistant professor,k.f.d.rietveld@liacs.leidenuniv.nl,+31 71 527 7038,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BW3.03,"computer systems, high performance computing, optimizing compilers, parallel and distributed computing, system software"
+Jan van Rijn,Assistant professor,j.n.van.rijn@liacs.leidenuniv.nl,+31 71 527 2727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BM4.13,"algorithms, artificial intelligence, data science, informatics, machine learning, metalearning, trustworthy ai"
+Sander van Rijn,PhD candidate,s.j.van.rijn@liacs.leidenuniv.nl,+31 71 527 4799,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,
+Agnese Rizzato,Postdoc,a.rizzato@liacs.leidenuniv.nl,+31 71 527 2727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,
+Diederik Roijers,Researcher / Guest,d.m.roijers@liacs.leidenuniv.nl,+31 71 527 4799,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,
+Grzegorz Rozenberg,Professor emeritus of Theoretical computer science,g.rozenberg@liacs.leidenuniv.nl,+31 71 527 7067,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BM2.05,
+Anna-Lena Rüland,Guest,a.n.ruland@liacs.leidenuniv.nl,+31 71 527 2727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,
+Faezeh Sadat Saadatmand,PhD candidate,f.saadatmand@liacs.leidenuniv.nl,+31 71 527 4799,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BM3.12,
+Waheeda Saib,PhD candidate,w.b.saib@liacs.leidenuniv.nl,+31 71 527 4799,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,
+Abolfazl Sajadi,PhD candidate,a.sajadi@liacs.leidenuniv.nl,+31 71 527 4799,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BM3.12,"cryptographic primitives, design & verification, digital systems, electronic design automation, hardware architectures"
+Saber Salehkaleybar,Assistant professor,s.salehkaleybar@liacs.leidenuniv.nl,+31 71 527 2727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BE215,
+Rob Saunders,Associate Professor,r.saunders@liacs.leidenuniv.nl,+31 71 527 4799,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BE3.10,artificial intelligence
+Andreas Sauter,PhD candidate / guest,a.w.m.sauter@liacs.leidenuniv.nl,+31 71 527 4799,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BE4.23,"causality, reinforcement learning"
+Akrati Saxena,Assistant professor,a.saxena@liacs.leidenuniv.nl,+31 71 527 2727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BE2.25,"complex networks, computational social science, data science, fairness, social media, social network analysis"
+Nathan Daniel Schiele,PhD candidate,n.d.schiele@liacs.leidenuniv.nl,+31 71 527 4799,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BM3.20,
+Richard Schoonhoven,Guest,r.a.schoonhoven@liacs.leidenuniv.nl,+31 71 527 2727,,
+Anton Schreuder,Guest,a.schreuder@liacs.leidenuniv.nl,+31 71 527 2727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,
+Álvaro Serra-Gómez,Postdoc,a.serra-gomez@liacs.leidenuniv.nl,+31 71 527 2727,Snellius Niels Bohrweg 1 2333 CA Leiden,
+Hongchang Shan,PhD candidate / guest,h.shan@liacs.leidenuniv.nl,+31 71 527 7491,Sylvius Sylviusweg 72 2333 BE Leiden Room number 145a,"artificial intelligence, brain computer interface, convolutional neural network, machine learning, p300 speller"
+Kevin Shen,Self Funded PhD Candidate / Guest,k.shen@liacs.leidenuniv.nl,,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,
+Chenyu Shi,PhD candidate,c.shi@liacs.leidenuniv.nl,+31 71 527 2727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,"algorithm design, optimization theory quantum machine learning"
+Jiayang Shi,,j.shi@liacs.leidenuniv.nl,+31 71 527 4799,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BE4.14,
+Floris Jan Sicking,Education and Research Support,f.j.sicking@issc.leidenuniv.nl,+31 71 527 6328,Snellius Niels Bohrweg 1 2333 CA Leiden Room number 52,
+Roozbeh Siyadatzadeh,PhD candidate,s.r.siyadatzadeh@liacs.leidenuniv.nl,+31 71 527 4799,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BM3.12,"embedded machine learning, embedded systems, low power design, reliability, smart cps"
+Anastasiia Skurativska,Postdoc,a.skurativska@liacs.leidenuniv.nl,+31 71 527 2727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,
+Kaela Slavik,Guest account,k.a.slavik@liacs.leidenuniv.nl,+31 71 527 2727,,
+Christian Smeijsters,Student affairs staff member,c.j.j.smeijsters@liacs.leidenuniv.nl,+31 71 527 2727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BE2.02,
+Erwin van Soest,Education and research asssistant,e.t.m.van.soest@liacs.leidenuniv.nl,+31 71 527 7063,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BE3.18,
+Lindsay Spoor,PhD candidate,l.j.spoor@liacs.leidenuniv.nl,+31 71 527 2727,,
+Marco Spruit,Professor Advanced Data Science in Population Health,m.r.spruit@lumc.nl,+31 71 526 9111,Wijnhaven Turfmarkt 99 2511 DP The Hague Room number 3.20a,
+Berend van Starkenburg,PhD candidate,b.c.r.van.starkenburg@liacs.leidenuniv.nl,+31 71 527 2727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BM2.23,
+Todor Stefanov,Associate professor,t.p.stefanov@liacs.leidenuniv.nl,+31 71 527 5776,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BW3.01,
+Niki van Stein,Assistant professor,n.van.stein@liacs.leidenuniv.nl,+31 71 527 2727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BE4.13,"artificial intelligence, data driven, data mining, industrial processes, kriging, machine learning, optimization, quassian processes, surrogate models"
+Christoph Johann Stettina,Assistant professor,c.j.stettina@liacs.leidenuniv.nl,+31 71 527 4799,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BE2.27,
+Taconis Stolk,Lecturer / guest,t.a.w.stolk@liacs.leidenuniv.nl,+31 71 527 2727,,
+Sandra Strakova,Guest,s.strakova@liacs.leidenuniv.nl,+31 71 527 2727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,
+Luc Sträter,PhD candidate,l.p.j.strater@liacs.leidenuniv.nl,+31 71 527 2727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,"deep learning, representation learning, self-supervised learning, video understanding"
+Regien Sumo,Postdoc,r.a.f.sumo@liacs.leidenuniv.nl,+31 71 527 4799,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,
+Shuang Sun,PhD candidate,s.sun@liacs.leidenuniv.nl,+31 71 527 2727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,
+Frank Takes,Associate professor/Director of Education,f.w.takes@liacs.leidenuniv.nl,+31 71 527 7143,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BE3.07,"algorithms, artificial intelligence, complex networks, data mining, data science, network science, social networks"
+Dimitrios Thanos,PhD candidate,d.thanos@liacs.leidenuniv.nl,+31 71 527 4799,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BM2.23,
+André Thomaser,PhD candidate / Self Funded,a.m.thomaser@liacs.leidenuniv.nl,071 5274799,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,
+Marcel Tichelaar,Communication Staff Member,m.tichelaar@liacs.leidenuniv.nl,+31 71 527 6985,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BE3.17,
+Marielle Tijmensen,Education coordinator,m.a.tijmensen@liacs.leidenuniv.nl,+31 71 527 2727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BE2.12,
+Walter Tockenburger,Lecturer,w.l.tockenburger@liacs.leidenuniv.nl,+31 71 527 2727,,
+Guus Toussaint,PhD candidate,g.toussaint@liacs.leidenuniv.nl,+31 71 527 2727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BM2.16,
+Cem Unsal,Postdoc,c.u.unsal@liacs.leidenuniv.nl,+31 71 527 2727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,
+Alex Uta,Assistant professor,a.uta@liacs.leidenuniv.nl,+31 71 527 2727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,
+Serban Vadineanu,PhD Student,s.vadineanu@liacs.leidenuniv.nl,+31 71 527 4799,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BE4.14,
+Nadia van der Valk,Study adviser,s.n.van.der.valk@liacs.leidenuniv.nl,071 5272727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BE2.08,
+Wouter Van den Berg,PhD candidate,w.j.van.den.berg@liacs.leidenuniv.nl,+31 71 527 2727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,
+Cor Veenman,Postdoc / guest,c.j.veenman@liacs.leidenuniv.nl,+31 71 527 5772,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,"artificial intelligence, big data, data science, forensic analytics, fraud detection, sports analytics"
+Fons Verbeek,Professor of Computational Bio-imaging,f.j.verbeek@liacs.leidenuniv.nl,+31 71 527 5773,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BE3.27,"artificial intelligence, bio imaging, deep learning, image processing, machine learning, microscopy, virtual reality, visualisation"
+Suzan Verberne,Professor Computer Science,s.verberne@liacs.leidenuniv.nl,+31 71 527 7043,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BE221,"artificial intelligence, information retrieval, natural language processing"
+Tessa Verhoef,Assistant professor,t.verhoef@liacs.leidenuniv.nl,+31 71 527 7903,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BE3.08,"agent simulations, artificial intelligence, cognitive science, cultural evolution, emergent communication, language evolution"
+Diederick Vermetten,PhD candidate,d.l.vermetten@liacs.leidenuniv.nl,+31 71 527 7060,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BE4.11,
+Alejandro David Villoria Gonzalez,PhD candidate,a.d.villoria.gonzalez@liacs.leidenuniv.nl,+31 71 527 2727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BM2.23,
+Marieke Vinkenoog,Lecturer,m.vinkenoog@liacs.leidenuniv.nl,+31 71 527 4799,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BM2.14,
+Lieuwe Vinkhuijzen,PhD candidate / guest,l.t.vinkhuijzen@liacs.leidenuniv.nl,071 5272727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,
+Jonathan Vis,Lecturer,j.k.vis@liacs.leidenuniv.nl,+31 71 527 4799,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BM2.05,
+Joost Visser,Professor Large Scale Software and Data Science,j.m.w.visser@liacs.leidenuniv.nl,+31 71 527 2727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BE2.26,"agile software development, data science, software engineering, software measurement, software quality"
+Rudy van Vliet,Lecturer,r.van.vliet@liacs.leidenuniv.nl,+31 71 527 2876,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BM2.03,
+David Von Dollen,PhD candidate / Guest,d.von.dollen@liacs.leidenuniv.nl,+31 71 527 7058,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,
+Maarten Vonk,PhD Candidate / Self Funded,m.c.vonk@liacs.leidenuniv.nl,071 5274799,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BE4.18,
+Bernd Wagner,PhD candidate / self funded,b.g.wagner@liacs.leidenuniv.nl,071 5272727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,
+Hao Wang,Assistant Professor,h.wang@liacs.leidenuniv.nl,+31 71 527 4799,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BE4.22,artificial intelligence
+Jian Wang,,j.wang@cwts.leidenuniv.nl,+31 71 527 2727,Willem Einthoven Kolffpad 1 2333 BN Leiden,"bibliometrics, innovation studies, machine learning, science and innovation analytics, science and technology policy, science studies, statistics, strategy"
+Peng Wang,Researcher,p.wang@liacs.leidenuniv.nl,+31 71 527 7050,Sylvius Sylviusweg 72 2333 BE Leiden Room number 126,"bufferless, confined-interference communication, duty buffer, dynamic bypass, network-on-chip, power gating"
+Tianyuan Wang,PhD candidate,t.wang@liacs.leidenuniv.nl,071 5272727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,
+Yumeng Wang,PhD candidate,y.wang@liacs.leidenuniv.nl,+31 71 527 2727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BE2.24,"conversational agents, explainability, explainable artificial intelligence, information retrieval, large language models"
+Julia Wasala,PhD candidate,j.wasala@liacs.leidenuniv.nl,+31 71 527 4799,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BE4.03,"automated machine learning, automl, deep learning, earth observation"
+Niels van Weeren,Lecturer / guest,n.van.weeren@liacs.leidenuniv.nl,+31 71 527 5298,,
+Xiaohan Wei,PhD candidate / contract,x.w.wei@liacs.leidenuniv.nl,+31 71 527 4799,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BE4.24,
+Weikang Weng,PhD candidate,w.weng@liacs.leidenuniv.nl,+31 71 527 4799,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BW3.04,
+Vivian van der Werf,Guest,v.van.der.werf@liacs.leidenuniv.nl,+31 71 527 2727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,
+Ben van Werkhoven,Assistant professor,b.j.c.van.werkhoven@liacs.leidenuniv.nl,+31 71 527 2727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BW3.05,"accelerated computing, computer science, energy efficiency, graphics processing units, high performance computing, machine learning, optimization, parallel and distributed computing, performance optimization"
+Gijs Wijnholds,Assistant professor,g.j.wijnholds@liacs.leidenuniv.nl,+31 71 527 2727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BE219,
+Roy de Winter,PhD candidate / Guest,r.de.winter@liacs.leidenuniv.nl,071 5277058,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BE4.18,
+Rafael Wlodarski,Postdoc,r.s.wlodarski@liacs.leidenuniv.nl,+31 71 527 7903,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BM3.31,
+Liselotte van der Woerd,Management/office-assistant,l.van.der.woerd@liacs.leidenuniv.nl,+31 71 527 4799,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BE3.19,
+Annie Wong,PhD Candidate / Guest,a.s.w.wong@liacs.leidenuniv.nl,+31 71 527 4799,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BE4.18,
+Zhan Xiong,PhD candidate / guest,z.xiong@liacs.leidenuniv.nl,+31 71 527 7063,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,
+Dan Xu,PhD candidate / guest,d.xu@liacs.leidenuniv.nl,071 5277061,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BM3.31,
+Mahtab Yaghubi Rad,PhD candidate,m.yaghubi.rad@liacs.leidenuniv.nl,+31 71 527 2727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,
+Kaifeng Yang,Researcher / Guest,k.yang@liacs.leidenuniv.nl,+31 71 527 4799,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,
+Lincen Yang,Postdoc,l.yang@liacs.leidenuniv.nl,+31 71 527 7050,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BE3.09,
+Zhao Yang,PhD candidate / guest,z.yang@liacs.leidenuniv.nl,+31 71 527 4799,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BE4.23,
+Mert Yazan,PhD candidate / self funded,m.yazan@liacs.leidenuniv.nl,071 5272727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BE2.24,"artificial intelligence, chatbot anthropomorphism, consumer psychology, conversational agents, machine learning, natural language processing"
+Furong Ye,Postdoc,f.ye@liacs.leidenuniv.nl,+31 71 527 2727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,
+Sabiha Yeni,Postdoc,s.yeni@liacs.leidenuniv.nl,+31 71 527 2727,Snellius Niels Bohrweg 1 2333 CA Leiden,
+Haoran Yin,PhD candidate / contract,h.yin@liacs.leidenuniv.nl,+31 71 527 2727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BE4.24,
+Ying Yin,PhD candidate / guest,y.yin@sbb.leidenuniv.nl,+31 71 527 4799,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BM3.24,
+Jos Zandvliet,Education and Research Staff Member,j.j.m.zandvliet@liacs.leidenuniv.nl,+31 71 527 4799,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,
+Alexander Zeiser,PhD candidate / guest,a.z.zeiser@liacs.leidenuniv.nl,+31 71 527 4799,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,
+Jia Zhang,Researcher,j.zhang@liacs.leidenuniv.nl,+31 71 527 4799,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BM3.24,
+Jujia Zhao,PhD candidate,j.zhao@liacs.leidenuniv.nl,+31 71 527 2727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden,
+Yuxuan Zhao,PhD candidate,y.zhao@liacs.leidenuniv.nl,+31 71 527 4799,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BW3.04,
+Ahnjili Zhuparris,Researcher / guest,a.zhuparris@liacs.leidenuniv.nl,+31 71 527 4799,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BW3.04,
+Nusa Zidaric,Assistant professor,n.zidaric@liacs.leidenuniv.nl,+31 71 527 4799,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BM3.09,"cryptography, finite field arithmetic, hardware design, hardware design automation"
+Miros Zohrehvand,Assistant Professor,a.h.zohrehvand@sbb.leidenuniv.nl,+31 71 527 4799,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number BE218,
+Kirsten Zwaan,Secretary to the Board of Examiners,k.a.zwaan@science.leidenuniv.nl,+31 71 527 2727,Gorlaeus Building Einsteinweg 55 2333 CC Leiden Room number C.0.09,
