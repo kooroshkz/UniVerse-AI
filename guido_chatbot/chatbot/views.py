@@ -4,13 +4,22 @@ from django.views.decorators.csrf import csrf_exempt
 from datetime import datetime
 import os
 import subprocess
+import tiktoken
 from django.conf import settings
 from .models import StaffMember
 from .utils import search_staff
 from openai import OpenAI
 
+MAX_INPUT_TOKENS = 20
+MAX_OUTPUT_TOKENS = 20
+
 # Configure OpenAI client
 client = OpenAI(api_key=settings.OPENAI_API_KEY)
+
+def count_tokens(text):
+    encoder = tiktoken.get_encoding("cl100k_base")  # Using the model's tokenizer
+    tokens = encoder.encode(text)
+    return len(tokens)
 
 @csrf_exempt
 def chatbot_response(request):
@@ -20,6 +29,16 @@ def chatbot_response(request):
     user_input = request.POST.get('message')
     response_message = ""
     use_openai = True
+
+    user_input_tokens = count_tokens(user_input)
+
+    # Check if input exceeds MAX_INPUT_TOKENS
+    if  user_input_tokens > MAX_INPUT_TOKENS:
+        return JsonResponse({
+            "error": "Input exceeds maximum token limit.",
+            "max_tokens": MAX_INPUT_TOKENS,
+            "user_input_tokens": user_input_tokens
+        })
 
     try:
         # Search for staff in the database
@@ -69,6 +88,7 @@ def chatbot_response(request):
                     {"role": "system", "content": "You are a helpful university assistant."},
                     {"role": "user", "content": prompt},
                 ],
+                max_tokens = MAX_OUTPUT_TOKENS
             )
 
             response_message = openai_response.choices[0].message.content.strip()
