@@ -2,8 +2,11 @@
 
 ---
 
-
-Adding predefined uestion and question completion suggestion
+Imporvements
+Adding predefined question and question completion suggestion
+If words exceed the chat go to the new line
+Disable the button and alert
+Responsivness
 
 
 
@@ -15,6 +18,8 @@ Role:
 - DevOps Engineer
 
 ##### Diego
+
+- Database 
 
 ##### Kacper
 Role:
