@@ -2,7 +2,7 @@
 
 ---
 
-_Imporvements_
+**Imporvements**
 
 If words exceed the chat go to the new line
 
