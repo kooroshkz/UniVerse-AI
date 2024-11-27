@@ -2,7 +2,7 @@
 
 ---
 
-**Imporvements**
+**Improvements**
 
 If words exceed the chat go to the new line
 
