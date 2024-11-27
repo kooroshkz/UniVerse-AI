@@ -19,10 +19,13 @@ function updateScrollbar() {
 
 function setDate() {
   const d = new Date();
-  if (m !== d.getMinutes()) {
-    m = d.getMinutes();
-    $('<div class="timestamp">' + d.getHours() + ':' + m + '</div>').appendTo($('.message:last'));
-  }
+  const hours = d.getHours();
+  const minutes = d.getMinutes();
+  // Format the timestamp as "HH:MM"
+  const timestamp = $('<div class="timestamp">' + hours + ':' + (minutes < 10 ? '0' : '') + minutes + '</div>');
+  
+  // Always add the timestamp for each message
+  $('.message:last').append(timestamp);
 }
 
 function insertMessage() {
@@ -31,7 +34,7 @@ function insertMessage() {
 
   // Append user's message
   $('<div class="message message-personal">' + msg + '</div>').appendTo($('.mCSB_container')).addClass('new');
-  setDate();
+  setDate();  // Add timestamp for the user's message
   $('.message-input').val(null);
   updateScrollbar();
 
@@ -53,17 +56,17 @@ function insertMessage() {
     success: function(data) {
       // Replace loader with the response message
       loader.replaceWith('<div class="message new">' + data.response + '</div>');
-      setDate();
+      setDate();  // Add timestamp for the bot's message
       updateScrollbar();
     },
     error: function() {
       // Replace loader with error message
       loader.replaceWith('<div class="message new">Error: Could not process your request at the moment.</div>');
+      setDate();  // Add timestamp for the error message
       updateScrollbar();
     }
   });
 }
-
 
 // Event listeners for sending messages
 $('.message-submit').on('click', insertMessage);
