@@ -2,14 +2,24 @@
 
 ---
 
-Imporvements
-Adding predefined question and question completion suggestion
+_Imporvements_
 
 If words exceed the chat go to the new line
 
-Disable the button and alert
+Responsivness for different devices
 
-Responsivness
+If max tokens reached, disable the 'Send' button and alert
+
+Add predefined question
+
+Add text completion suggestion
+
+Add Calendar (Maybe with only critical info, e.g. exam)
+
+
+
+
+
 
 
 
