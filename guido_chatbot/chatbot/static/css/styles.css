@@ -191,3 +191,10 @@ html, body {
   height: 100%;
   z-index: 0;
 }
+
+.loader {
+  width: 50px;
+  height: 50px;
+  display: block; /* Ensures the image aligns correctly */
+  margin: 0 auto; /* Centers the loader if needed */
+}
