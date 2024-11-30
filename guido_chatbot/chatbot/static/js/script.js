@@ -54,10 +54,18 @@ function insertMessage() {
       csrfmiddlewaretoken: getCSRFToken() // Include CSRF token
     },
     success: function(data) {
-      // Replace loader with the response message
-      loader.replaceWith('<div class="message new">' + data.response + '</div>');
-      setDate();  // Add timestamp for the bot's message
-      updateScrollbar();
+		if (data.error) {
+            alert(`Error: ${data.error}`);
+            console.log(`Max tokens: ${data.max_tokens}`);
+            console.log(`User input tokens: ${data.user_input_tokens}`);
+			loader.replaceWith('');
+        } else {
+            // Replace loader with the response message
+			loader.replaceWith('<div class="message new">' + data.response + '</div>');
+			setDate();  // Add timestamp for the bot's message
+			updateScrollbar();
+        }
+      
     },
     error: function() {
       // Replace loader with error message
