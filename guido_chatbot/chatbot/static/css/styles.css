@@ -198,3 +198,9 @@ html, body {
   display: block; /* Ensures the image aligns correctly */
   margin: 0 auto; /* Centers the loader if needed */
 }
+
+@media (max-width: 400px) {
+  .chat {
+    width: 80%;
+  }
+}
