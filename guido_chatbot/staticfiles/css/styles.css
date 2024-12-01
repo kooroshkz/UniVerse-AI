@@ -173,4 +173,8 @@ body {
   background: #002244; 
 }
 
-
+@media (max-width: 400px) {
+  .chat {
+    width: 80%;
+  }
+}
