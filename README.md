@@ -6,8 +6,6 @@
 
 If words exceed the chat go to the new line
 
-If max tokens reached alert
-
 Add predefined question
 
 Add text completion suggestion
