@@ -6,9 +6,7 @@
 
 If words exceed the chat go to the new line
 
-Responsivness for different devices
-
-If max tokens reached, disable the 'Send' button and alert
+If max tokens reached alert
 
 Add predefined question
 
