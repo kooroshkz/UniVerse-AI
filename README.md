@@ -6,6 +6,8 @@
 
 If words exceed the chat go to the new line
 
+If max tokens reached, disable the 'Send' button and alert
+
 Add predefined question
 
 Add text completion suggestion
