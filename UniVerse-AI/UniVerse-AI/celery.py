@@ -2,9 +2,9 @@ from __future__ import absolute_import, unicode_literals
 import os
 from celery import Celery
 
-os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'guido_chatbot.settings')
+os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'UniVerse-AI.settings')
 
-app = Celery('guido_chatbot')
+app = Celery('UniVerse-AI')
 
 app.config_from_object('django.conf:settings', namespace='CELERY')
 

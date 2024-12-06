@@ -6,7 +6,7 @@ from bs4 import BeautifulSoup
 
 BASE_URL = "https://www.universiteitleiden.nl"
 STAFF_LIST_URL = f"{BASE_URL}/en/science/computer-science/staff#tab-6"
-OUTPUT_FILE = "guido_chatbot/chatbot/complete_staff_info.csv"
+OUTPUT_FILE = "UniVerse-AI/chatbot/complete_staff_info.csv"
 
 def fetch_html(url):
     """Fetch the HTML content of a given URL."""

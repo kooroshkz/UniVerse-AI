@@ -48,7 +48,7 @@ function insertMessage() {
   // Send message to Django backend for OpenAI API processing
   $.ajax({
     type: 'POST',
-    url: '/chatbot_response/', // URL should match your Django URL configuration
+    url: '/chatbot/response/',
     data: {
       message: msg,
       csrfmiddlewaretoken: getCSRFToken() // Include CSRF token

@@ -1,5 +1,5 @@
 """
-ASGI config for guido_chatbot project.
+ASGI config for UniVerse-AI project.
 
 It exposes the ASGI callable as a module-level variable named ``application``.
 

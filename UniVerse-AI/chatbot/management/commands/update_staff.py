@@ -8,12 +8,12 @@ class Command(BaseCommand):
 
     def handle(self, *args, **kwargs):
         # Path to the scraper
-        scraper_path = os.path.join("guido_chatbot", "chatbot", "scraper.py")
+        scraper_path = os.path.join("UniVerse-AI", "chatbot", "scraper.py")
 
         # Run the scraper
         subprocess.run(["python", scraper_path], check=True)
 
         # Update the database
-        csv_file_path = os.path.join("guido_chatbot", "chatbot", "complete_staff_info.csv")
+        csv_file_path = os.path.join("UniVerse-AI", "chatbot", "complete_staff_info.csv")
         update_staff_data_from_csv(csv_file_path)
         self.stdout.write("Staff data updated successfully.")

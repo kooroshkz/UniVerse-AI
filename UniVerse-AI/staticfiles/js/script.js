@@ -1,21 +1,14 @@
 const $messages = $('.messages-content');
-let m, i = 0;
-
-const fakeMessages = [
-  'Hello, how can I assist you today?',
-  'Fetching contact information for university staff...',
-  'Found the email for Guilherme Perin: guilherme.perin@universiteitleiden.nl',
-  'The latest update in your MyTimetable is: "AI lecture moved to Room 1.15 on October 27th."',
-  'Would you like me to add this update to your personal schedule?',
-  'I can help you with scraping more staff profiles or checking new updates. What would you like to do next?',
-  'Goodbye! If you need further assistance, just let me know.',
-  ':)'
-];
+let m;
 
 $(window).on('load', () => {
   $messages.mCustomScrollbar();
-  setTimeout(fakeMessage, 100);
 });
+
+// Function to get CSRF token
+function getCSRFToken() {
+  return document.querySelector('[name=csrfmiddlewaretoken]').value;
+}
 
 function updateScrollbar() {
   $messages.mCustomScrollbar("update").mCustomScrollbar('scrollTo', 'bottom', {
@@ -26,24 +19,64 @@ function updateScrollbar() {
 
 function setDate() {
   const d = new Date();
-  if (m !== d.getMinutes()) {
-    m = d.getMinutes();
-    $('<div class="timestamp">' + d.getHours() + ':' + m + '</div>').appendTo($('.message:last'));
-  }
+  const hours = d.getHours();
+  const minutes = d.getMinutes();
+  // Format the timestamp as "HH:MM"
+  const timestamp = $('<div class="timestamp">' + hours + ':' + (minutes < 10 ? '0' : '') + minutes + '</div>');
+  
+  // Always add the timestamp for each message
+  $('.message:last').append(timestamp);
 }
 
 function insertMessage() {
   const msg = $('.message-input').val().trim();
   if (!msg) return;
 
+  // Append user's message
   $('<div class="message message-personal">' + msg + '</div>').appendTo($('.mCSB_container')).addClass('new');
-  setDate();
+  setDate();  // Add timestamp for the user's message
   $('.message-input').val(null);
   updateScrollbar();
 
-  setTimeout(fakeMessage, 1000 + Math.random() * 2000);
+  // Append loader
+  const loader = $(
+    '<div class="message new"><img src="https://mywatchcdm.com/cdn/shop/t/3/assets/loading.gif?v=101112957014615068991674848327" class="loader" alt="Loading..."></div>'
+  );
+  loader.appendTo($('.mCSB_container')).addClass('new');
+  updateScrollbar();
+
+  // Send message to Django backend for OpenAI API processing
+  $.ajax({
+    type: 'POST',
+    url: '/chatbot/response/',
+    data: {
+      message: msg,
+      csrfmiddlewaretoken: getCSRFToken() // Include CSRF token
+    },
+    success: function(data) {
+		if (data.error) {
+            alert(`Error: ${data.error}`);
+            console.log(`Max tokens: ${data.max_tokens}`);
+            console.log(`User input tokens: ${data.user_input_tokens}`);
+			loader.replaceWith('');
+        } else {
+            // Replace loader with the response message
+			loader.replaceWith('<div class="message new">' + data.response + '</div>');
+			setDate();  // Add timestamp for the bot's message
+			updateScrollbar();
+        }
+      
+    },
+    error: function() {
+      // Replace loader with error message
+      loader.replaceWith('<div class="message new">Error: Could not process your request at the moment.</div>');
+      setDate();  // Add timestamp for the error message
+      updateScrollbar();
+    }
+  });
 }
 
+// Event listeners for sending messages
 $('.message-submit').on('click', insertMessage);
 $(window).on('keydown', (e) => {
   if (e.which === 13) {
@@ -51,18 +84,3 @@ $(window).on('keydown', (e) => {
     return false;
   }
 });
-
-function fakeMessage() {
-  if ($('.message-input').val() !== '') return;
-
-  $('<div class="message loading new"><span></span></div>').appendTo($('.mCSB_container'));
-  updateScrollbar();
-
-  setTimeout(() => {
-    $('.message.loading').remove();
-    $('<div class="message new">' + fakeMessages[i] + '</div>').appendTo($('.mCSB_container')).addClass('new');
-    setDate();
-    updateScrollbar();
-    i = (i + 1) % fakeMessages.length;
-  }, 1000 + Math.random() * 2000);
-}

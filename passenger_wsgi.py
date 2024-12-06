@@ -3,7 +3,7 @@ import os
 from django.core.wsgi import get_wsgi_application
 
 # Set the project base directory
-project_path = '/home/kooroshkz/softdev.kooroshkz.com/guido_chatbot'
+project_path = '/home/kooroshkz/softdev.kooroshkz.com/UniVerse-AI'
 sys.path.insert(0, project_path)
 
 # Set the path to the virtual environment site-packages
@@ -11,7 +11,7 @@ venv_path = '/home/kooroshkz/virtualenv/softdev.kooroshkz.com/3.11/lib/python3.1
 sys.path.insert(1, venv_path)
 
 # Set the Django settings module environment variable
-os.environ['DJANGO_SETTINGS_MODULE'] = 'guido_chatbot.settings'
+os.environ['DJANGO_SETTINGS_MODULE'] = 'UniVerse-AI.settings'
 
 # Activate the virtual environment
 activate_env = '/home/kooroshkz/virtualenv/softdev.kooroshkz.com/3.11/bin/activate_this.py'
