@@ -14,7 +14,7 @@ MAX_INPUT_TOKENS = 20
 MAX_OUTPUT_TOKENS = 20
 
 # Configure OpenAI client
-client = OpenAI(api_key=settings.OPENAI_API_KEY)
+client = OpenAI(api_key=str(settings.OPENAI_API_KEY_LEIDEN))
 
 def count_tokens(text):
     encoder = tiktoken.get_encoding("cl100k_base")  # Using the model's tokenizer
