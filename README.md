@@ -1,100 +1,88 @@
-# SoftDev Project Group 11
+# UniVerse AI
+## Leiden University Students AI-Powered Virtual Assistant
+### SoftDev Project Group 11
 
 ---
 
-Dont forget:
-python manage.py collectstatic
+UniVerse AI is a virtual assistant designed to enhance the academic experience for students at Leiden University. It leverages artificial intelligence to provide an intuitive chatbot, calendar integration, and other helpful features to streamline university-related tasks.
 
-**Improvements**
-
-If words exceed the chat go to the new line
-
-If max tokens reached, disable the 'Send' button and alert
-
-Add predefined question
-
-Add text completion suggestion
-
-Add Calendar (Maybe with only critical info, e.g. exam)
-
-
-
-
-
-
-
-
-## Team Members and Roles:
-
-##### Koorosh
-Role:
-
-- DevOps Engineer
-
-##### Diego
-Role:
-
-- Database 
-
-##### Kacper
-Role:
-
-- Api Data Extractor
-
-##### Emmanouil
-Role:
-
-- Backend Development
-
-##### Duru
-Role:
-
-- Web Scraping Developer
-
-##### Melisa
-Role:
-
-- Front-End Developer
 ---
 
-## Getting started
+## Installation and Setup
 
-To make it easy for you to get started with GitLab, here's a list of recommended next steps.
+1. Clone the repository:
+    ```bash
+    git clone <repository_url>
+    cd UniVerse-AI
+    ```
 
-Already a pro? Just edit this README.md and make it your own. Want to make it easy? [Use the template at the bottom](#editing-this-readme)!
+2. Install the required dependencies:
+    ```bash
+    pip install -r requirements.txt
+    ```
 
-## Add your files
+3. Apply migrations:
+    ```bash
+    python manage.py makemigrations
+    python manage.py migrate
+    ```
 
-- [ ] [Create](https://docs.gitlab.com/ee/user/project/repository/web_editor.html#create-a-file) or [upload](https://docs.gitlab.com/ee/user/project/repository/web_editor.html#upload-a-file) files
-- [ ] [Add files using the command line](https://docs.gitlab.com/ee/gitlab-basics/add-file.html#add-a-file-using-the-command-line) or push an existing Git repository with the following command:
+4. Collect static files:
+    ```bash
+    python manage.py collectstatic
+    ```
 
-```
-cd existing_repo
-git remote add origin https://git.liacs.nl/s4068858/softdev-project-group-11.git
-git branch -M main
-git push -uf origin main
-```
+5. Run the development server:
+    ```bash
+    python manage.py runserver
+    ```
 
-## Integrate with your tools
+6. Access the application at `http://127.0.0.1:8000/`.
 
-- [ ] [Set up project integrations](https://git.liacs.nl/s4068858/softdev-project-group-11/-/settings/integrations)
+---
 
-## Collaborate with your team
+## Features
 
-- [ ] [Invite team members and collaborators](https://docs.gitlab.com/ee/user/project/members/)
-- [ ] [Create a new merge request](https://docs.gitlab.com/ee/user/project/merge_requests/creating_merge_requests.html)
-- [ ] [Automatically close issues from merge requests](https://docs.gitlab.com/ee/user/project/issues/managing_issues.html#closing-issues-automatically)
-- [ ] [Enable merge request approvals](https://docs.gitlab.com/ee/user/project/merge_requests/approvals/)
-- [ ] [Set auto-merge](https://docs.gitlab.com/ee/user/project/merge_requests/merge_when_pipeline_succeeds.html)
+- **Chatbot**: AI-powered assistant for students.
+- **Calendar**: Integrated calendar for tracking exams, deadlines, and critical dates.
+- **Text Completion**: Provides suggestions for predefined questions and completions.
+- **Token Management**: Automatically handles message length and limits.
+- **Responsive UI**: Ensures usability across devices.
 
-## Test and Deploy
+---
 
-Use the built-in continuous integration in GitLab.
+## Improvements
 
-- [ ] [Get started with GitLab CI/CD](https://docs.gitlab.com/ee/ci/quick_start/index.html)
-- [ ] [Analyze your code for known vulnerabilities with Static Application Security Testing (SAST)](https://docs.gitlab.com/ee/user/application_security/sast/)
-- [ ] [Deploy to Kubernetes, Amazon EC2, or Amazon ECS using Auto Deploy](https://docs.gitlab.com/ee/topics/autodevops/requirements.html)
-- [ ] [Use pull-based deployments for improved Kubernetes management](https://docs.gitlab.com/ee/user/clusters/agent/)
-- [ ] [Set up protected environments](https://docs.gitlab.com/ee/ci/environments/protected_environments.html)
+- Automatically wrap long messages in the chatbot interface.
+- Disable the 'Send' button and provide alerts when maximum tokens are reached.
+- Add predefined questions for quick user assistance.
+- Provide text completion suggestions.
+- Introduce a calendar with critical information like exam dates.
 
-suser: guido/guido
+---
+
+## Team Members and Roles
+
+### Koorosh
+**Role**: DevOps Engineer  
+Responsibilities: Infrastructure management, deployment, CI/CD pipelines.
+
+### Diego
+**Role**: Database Manager  
+Responsibilities: Designing and managing the database schema, ensuring data integrity.
+
+### Kacper
+**Role**: API Data Extractor  
+Responsibilities: Integration with external APIs and handling data pipelines.
+
+### Emmanouil
+**Role**: Backend Developer  
+Responsibilities: Developing core application logic, API endpoints, and business logic.
+
+### Duru
+**Role**: Web Scraping Developer  
+Responsibilities: Extracting and processing web data for use in the application.
+
+### Melisa
+**Role**: Front-End Developer  
+Responsibilities: Designing and developing user interfaces for the application.
