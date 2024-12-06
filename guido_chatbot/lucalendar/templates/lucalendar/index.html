@@ -1,0 +1,108 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Calendar of Events</title>
+    <link rel="stylesheet" href="{% static 'lucalendar/css/styles.css' %}">
+</head>
+<body>
+    <div class="container">
+        <div class="row">
+            <h1>Calendar of Events</h1>
+        </div>
+        <div class="row col-2">
+            <aside class="eventKey">
+                <h2>Event Key</h2>
+                <div class="tradeShow">Trade Show</div>
+                <div class="holiday">Holiday</div>
+                <div class="meeting">Meeting</div>
+                <div class="birthday">Birthday</div>
+            </aside>
+            <article>
+          <h3 class="monthYear"><span>,</span> July 2014 </h3>
+              <ul class="days">
+                <li>Sun</li>
+                <li>Mon</li>
+                <li>Tues</li>
+                <li>Wed</li>
+                <li>Thurs</li>
+                <li>Fri</li>
+                <li>Sat</li>
+              </ul>
+                <ul class="dates">
+            <li class="fade"><span class="date">29</span></li>
+            <li class="fade"><span class="date">30</span></li>
+                    <li><span class="date">1</span></li>
+                    <li>
+              <section class="dateWrapper">
+                        <span class="date">2</span>
+                        <div class="multidayHolder"><a href="#" class="multidayEvent tradeShow length-2">Independence Tade Show <span>2 - 3</span></a></div>
+              </section>
+                    </li>
+                    <li class="current today">
+                <section class="dateWrapper">
+                  <span class="date">3</span>
+                  <div class="multidayHolder"><a href="#" class="multidayEvent tradeShow secondaryDay">Independence Trade Show <span>2 - 3</span></a></div>
+                  <a href="#" class="meeting"><b>8:30 AM</b> Daily Stand Up</a>
+                  <a href="#" class="meeting"><b>4:30 PM</b> Trade Show Wrap Meeting</a>
+                  <a href="#" class="expand"><span> + </span></a>
+                 </section>
+                    </li>
+                    <li><span class="date">4</span>
+              <a href="#" class="holiday">U.S. Independence Day <span>4th of July</span></a>
+                    </li>
+                    <li><span class="date">5</span></li>
+                    <li><span class="date">6</span></li>
+                    <li><span class="date">7</span><a href="#" class="meeting"><b>8:30 AM</b> Daily Stand Up</a></li>
+                    <li><span class="date">8</span><a href="#" class="meeting"><b>8:30 AM</b> Daily Stand Up</a></li>
+                    <li><span class="date">9</span><a href="#" class="meeting"><b>8:30 AM</b> Daily Stand Up</a></li>
+                    <li><span class="date">10</span><a href="#" class="meeting"><b>8:30 AM</b> Daily Stand Up</a></li>
+                    <li><span class="date">11</span><a href="#" class="meeting"><b>8:30 AM</b> Daily Stand Up</a></li>
+                    <li><span class="date">12</span></li>
+                    <li><span class="date">13</span></li>
+                    <li><span class="date">14</span><a href="#" class="meeting"><b>8:30 AM</b> Daily Stand Up</a></li>
+                    <li><span class="date">15</span><a href="#" class="meeting"><b>8:30 AM</b> Daily Stand Up</a></li>
+                    <li>
+                        <span class="date">16</span>
+                        <div class="multidayHolder"><a href="#" class="multidayEvent tradeShow length-3">Trade Show <span>16 - 18</span></a></div> <a href="#" class="meeting"><b>8:30 AM</b> Daily Stand Up</a>
+                    </li>
+                    <li>
+                        <span class="date">17</span>
+                        <div class="multidayHolder"><a href="#" class="multidayEvent tradeShow secondaryDay">Trade Show <span>16 - 18</span></a></div> <a href="#" class="meeting"><b>8:30 AM</b> Daily Stand Up</a>
+                    </li>
+                    <li>
+                        <span class="date">18</span>
+                        <div class="multidayHolder"><a href="#" class="multidayEvent tradeShow secondaryDay">Trade Show <span>16 - 18</span></a></div> <a href="#" class="meeting"><b>8:30 AM</b> Daily Stand Up</a>
+                    </li>
+                    <li>
+                        <span class="date">19</span>
+                        <a href="http://amzn.com/w/HOLLMHU0B93L" target="_blank" class="birthday"><b>Jacob's Birthday</b> Buy him a gift!</a>
+                    </li>
+                    <li><span class="date">20</span></li>
+                    <li><span class="date">21</span> <a href="#" class="meeting"><b>8:30 AM</b> Daily Stand Up</a></li>
+                    <li><span class="date">22</span><a href="#" class="meeting"><b>8:30 AM</b> Daily Stand Up</a></li>
+                    <li><span class="date">23</span><a href="#" class="meeting"><b>8:30 AM</b> Daily Stand Up</a></li>
+                    <li><span class="date">24</span><a href="#" class="meeting"><b>8:30 AM</b> Daily Stand Up</a></li>
+                    <li><span class="date">25</span><a href="#" class="meeting"><b>8:30 AM</b> Daily Stand Up</a></li>
+                    <li><span class="date">26</span></li>
+                    <li><span class="date">27</span></li>
+                    <li><span class="date">28</span><a href="#" class="meeting"><b>8:30 AM</b> Daily Stand Up</a></li>
+                    <li><span class="date">29</span><a href="#" class="meeting"><b>8:30 AM</b> Daily Stand Up</a></li>
+                    <li><span class="date">30</span><a href="#" class="meeting"><b>8:30 AM</b> Daily Stand Up</a></li>
+                     <li><span class="date">31</span><a href="#" class="meeting"><b>8:30 AM</b> Daily Stand Up</a></li>
+                    <li class="fade"><span class="date">1</span></li>
+                    <li class="fade"><span class="date">2</span></li>
+                </ul>
+          <div class="calendarNav">
+              <a href="#prevDay" class="prevDay">Previous Day</a> 
+              <a href="#today" class="today">Current Day</a>
+              <a href="#" class="nextDay">Next Day</a>
+          </div>
+            </article>
+        </div>
+    </div>
+    <script src="{% static 'lucalendar/js/script.js' %}"></script>
+</body>
+</html>

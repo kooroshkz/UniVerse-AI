@@ -2,6 +2,9 @@
 
 ---
 
+Dont forget:
+python manage.py collectstatic
+
 **Improvements**
 
 If words exceed the chat go to the new line

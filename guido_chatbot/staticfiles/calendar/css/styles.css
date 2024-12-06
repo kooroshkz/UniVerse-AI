@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css?family=Lato:300,400,700');
+
+html {
+  font-size: 62.5%;
+}
+
+body {
+  background: #f7f7f7;
+  font-family: 'Lato', sans-serif;
+  color: #444;
+  padding: 20px;
+  font-size: 1.8rem;
+}
+
+h1 {
+  text-align: center;
+  font-weight: 300;
+  margin-bottom: 20px;
+}
+
+table {
+  border: 1px solid #ccc;
+  width: 100%;
+  table-layout: fixed;
+}
+
+thead th {
+  background: #2C93AD;
+  color: white;
+  padding: 10px;
+  text-align: center;
+}
+
+tbody td {
+  border: 1px solid #ddd;
+  vertical-align: top;
+  padding: 10px;
+  text-align: center;
+  background: #f9f9f9;
+}
+
+tbody td.has-event {
+  background: #DF9230;
+  color: white;
+}
+
+.calendar-date {
+  font-size: 2rem;
+  font-weight: 700;
+  color: #2C93AD;
+}
+
+.calendar-date.has-event {
+  color: white;
+}
+
+.event-link {
+  text-decoration: none;
+  display: block;
+  color: #fff;
+  font-size: 1.6rem;
+  margin-top: 10px;
+}
+
+.event-link:hover {
+  text-decoration: underline;
+}

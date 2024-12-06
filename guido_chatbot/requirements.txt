@@ -1,0 +1,8 @@
+django==5.1.2
+celery==5.4.0
+django-celery-beat==2.7.0
+fuzzywuzzy==0.18.0
+openai==1.54.4
+tiktoken==0.8.0
+django-timezone-field==7.0
+whitenoise==6.8.2
