@@ -5,9 +5,19 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Integrated Student Assistant Chatbot</title>
+  <link rel="icon" href="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Leiden_University_seal.svg/350px-Leiden_University_seal.svg.png" type="afbeelding/icoontype">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/malihu-custom-scrollbar-plugin/3.1.3/jquery.mCustomScrollbar.min.css">
   <link rel="stylesheet" href="{% static 'css/styles.css' %}">
+  <script>
+    const firstMessage = "{{ first_message|default:''|escapejs }}"; // Get the first_message from the GET parameter
+    if (firstMessage) {
+        document.addEventListener('DOMContentLoaded', () => {
+            insertMessage(firstMessage); // Trigger the bot to process the message
+        });
+    }
+  </script>
+
 </head>
 <body>
   <!-- Particle Background -->
@@ -16,20 +26,46 @@
   <!-- Chatbot UI -->
   <div class="chat">
     <div class="chat-title">
+      <button class="add-my-timetable">Add MyTimeTable</button>
       <h1>Integrated Student Assistant Chatbot</h1>
       <h2>Leiden University</h2>
       <figure class="avatar">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Leiden_University_seal.svg/350px-Leiden_University_seal.svg.png" alt="University Logo">
       </figure>
     </div>
+    
+    <div id="addMyTimeTableModal" class="modal">
+      <div class="modal-content">
+          <span class="close-button">&times;</span>
+          <h2>Add Your Timetable</h2>
+          <input type="text" id="myTimeTableLink" placeholder="Enter your timetable link here">
+          <button id="submitMyTimeTable">Submit</button>
+          <div id="submissionFeedback" style="position: relative;">
+            <!-- Feedback message will appear here -->
+            <div id="loader" style="display: none; text-align: center;">
+                <img src="https://i.gifer.com/YCZH.gif" alt="Loading..." style="width: 30px; height: 30px;">
+            </div>
+        </div>        
+      </div>
+  </div>
+  
+    
     <div class="messages">
+      <div class="example-questions">
+        <button class="example-question">How can I reach Akrati Saxena?</button>
+        <button class="example-question">When is Software Development exam?</button>
+        <button class="example-question">Where is the Leiden University library?</button>
+      </div>
       <div class="messages-content"></div>
     </div>
     <div class="message-box">
+
       <textarea class="message-input" placeholder="Type message..."></textarea>
       <button type="submit" class="message-submit">Send</button>
+	  <div class="token-warning-message" style="display: none; color: #ff4d4d; font-size: 12px; margin-top: 5px;"></div> <!-- This is the warning message -->
     </div>
   </div>
+
 
   <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/malihu-custom-scrollbar-plugin/3.1.3/jquery.mCustomScrollbar.concat.min.js"></script>
@@ -65,7 +101,7 @@
           {
             breakpoint: 320,
             options: {
-              maxParticles: 0 // Disable particles for small screens
+              maxParticles: 0
             }
           }
         ]

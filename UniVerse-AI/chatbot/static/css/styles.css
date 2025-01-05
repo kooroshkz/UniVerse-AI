@@ -44,21 +44,20 @@ body {
   z-index: 2;
   background: rgba(0, 0, 0, 0.2);
   color: #fff;
-  text-transform: uppercase;
   text-align: left;
   padding: 10px 10px 10px 50px;
 }
 
 .chat-title h1, .chat-title h2 {
   font-weight: normal;
-  font-size: 10px;
+  font-size: 12px;
   margin: 0;
   padding: 0;
 }
 
 .chat-title h2 {
   color: rgba(255, 255, 255, 0.5);
-  font-size: 8px;
+  font-size: 9px;
   letter-spacing: 1px;
 }
 
@@ -117,10 +116,68 @@ body {
   color: #fff; 
 }
 
+.add-my-timetable {
+  position: absolute;
+  right: 10px; /* Position it on the right side of the title */
+  top: 50%; /* Vertically center the button */
+  transform: translateY(-50%);
+  color: #fff;
+  border: none;
+  background: linear-gradient(135deg, #365fa3, #003366); /* Themed gradient */
+  font-size: 11px;
+  line-height: 1;
+  padding: 6px 10px;
+  border-radius: 10px;
+  outline: none !important;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2); /* Add subtle shadow */
+  transition: all 0.3s ease-in-out;
+}
+
+.add-my-timetable:hover {
+  background: linear-gradient(135deg, #003366, #002244); /* Darker hover gradient */
+  color: #fff;
+  transform: translateY(-50%) scale(1.05); /* Enlarge slightly on hover */
+  box-shadow: 0 6px 10px rgba(0, 0, 0, 0.3); /* Enhanced shadow on hover */
+}
+
+#submitMyTimeTable {
+  background: linear-gradient(135deg, #365fa3, #003366); /* Themed gradient */
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  font-size: 14px;
+  font-weight: bold;
+  text-transform: uppercase;
+  border-radius: 20px;
+  cursor: pointer;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2); /* Subtle shadow */
+  transition: all 0.3s ease-in-out;
+}
+
+#submitMyTimeTable:hover {
+  background: linear-gradient(135deg, #003366, #002244); /* Darker gradient */
+  transform: scale(1.05); /* Slight enlargement */
+  box-shadow: 0 6px 10px rgba(0, 0, 0, 0.3); /* Enhanced shadow */
+}
+
+#submitMyTimeTable:active {
+  background: #27408b; /* Slightly muted for active click */
+  transform: scale(0.95); /* Clicked effect */
+  box-shadow: 0 3px 6px rgba(0, 0, 0, 0.2); /* Subtle shadow reduction */
+}
+
+#submitMyTimeTable:disabled {
+  background: #696969; /* Disabled state */
+  color: #cccccc;
+  cursor: not-allowed;
+  box-shadow: none;
+}
+
+
 .messages .message.message-personal {
   float: right;
   color: #fff; /* White text */
-  text-align: right;
+  text-align: left;
   background: #27408b; /* A deeper blue for user messages */
   border-radius: 10px 10px 0 10px;
   margin: 8px 0;
@@ -155,13 +212,12 @@ body {
 .message-box .message-submit {
   position: absolute;
   z-index: 1;
-  top: 9px;
-  right: 10px;
+  top: 7px;
+  right: 12px;
   color: #fff;
   border: none;
   background: #003366; /* Parliament Blue */
-  font-size: 10px;
-  text-transform: uppercase;
+  font-size: 12px;
   line-height: 1;
   padding: 6px 10px;
   border-radius: 10px;
@@ -199,8 +255,167 @@ html, body {
   margin: 0 auto; /* Centers the loader if needed */
 }
 
+.token-warning-message {
+  position: relative;
+  right: 10px; /* Position it near the right edge */
+  top: 15%; /* Vertically center it */
+  transform: translateY(-50%); /* Adjust for exact vertical center */
+  color: #ff4d4d;
+  font-size: 12px;
+  margin-left: 10px; /* Adjust margin for slight spacing from the button */
+  text-align: right;
+}
+
+.messages .message,
+.messages .message.message-personal {
+  display: block;
+  word-break: break-word; /* Force breaking of long words */
+  overflow-wrap: anywhere; /* Allow breaking at any point */
+  white-space: normal; /* Ensure text wraps naturally */
+}
+
+.example-questions {
+  position: absolute;
+  top: 79.6%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 80%; /* Set width to 80% */
+  max-width: 400px; /* Optional: prevent buttons from getting too wide */
+  height: auto; /* Adjust height to fit content */
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  z-index: 3;
+  align-items: center; /* Center the buttons horizontally */
+}
+
+.example-question {
+  background-color: rgba(0, 0, 0, 0.5); /* Matches the transparent chat design */
+  border: 2px solid rgba(255, 255, 255, 0.24);
+  color: rgba(255, 255, 255, 0.7); /* Light text color */
+  padding: 10px 15px;
+  font-size: 14px;
+  text-align: center;
+  border-radius: 20px; /* Rounded buttons */
+  cursor: pointer;
+  transition: all 0.3s ease-in-out;
+  text-shadow: 0 1px 1px rgba(0, 0, 0, 0.2);
+  box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
+  width: 100%; /* Make buttons fill the container */
+}
+
+.example-question:hover {
+  background-color: #003366; /* Parliament Blue for hover effect */
+  color: white; /* Highlighted text color */
+  transform: scale(1.05); /* Slight enlargement on hover */
+  box-shadow: 0 7px 15px rgba(0, 0, 0, 0.4); /* Enhanced shadow on hover */
+}
+
+.example-question:active {
+  transform: scale(0.95); /* Pressed effect */
+  box-shadow: 0 3px 8px rgba(0, 0, 0, 0.2); /* Reduced shadow */
+}
+
 @media (max-width: 400px) {
   .chat {
     width: 80%;
   }
+}
+
+
+/* Modal styling */
+.modal {
+  display: none; /* Hidden by default */
+  position: fixed;
+  z-index: 1000; /* Above other elements */
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  overflow: auto; /* Enable scrolling if needed */
+  background-color: rgba(0, 0, 0, 0.8); /* Black with opacity */
+}
+
+/* Modal content */
+.modal-content {
+  background: rgba(0, 0, 0, 0.9);
+  margin: 10% auto; /* Centered */
+  padding: 20px;
+  border-radius: 15px;
+  width: 90%;
+  max-width: 400px;
+  color: #fff;
+  box-shadow: 0 5px 30px rgba(0, 0, 0, 0.5);
+  text-align: center;
+}
+
+.modal-content h2 {
+  margin: 0;
+  font-size: 20px;
+  color: #fff;
+}
+
+.modal-content p {
+  margin: 15px 0;
+  font-size: 14px;
+  color: rgba(255, 255, 255, 0.7);
+}
+
+.modal-content input {
+  width: 90%;
+  padding: 10px;
+  margin: 10px 0;
+  font-size: 14px;
+  color: #333;
+  border: 2px solid rgba(255, 255, 255, 0.24);
+  border-radius: 10px;
+  outline: none;
+  box-shadow: 0 3px 8px rgba(0, 0, 0, 0.2);
+}
+
+.modal-content input::placeholder {
+  color: rgba(0, 0, 0, 0.6);
+}
+
+.modal-content .submit-button {
+  background-color: #003366;
+  color: #fff;
+  border: none;
+  padding: 10px 15px;
+  font-size: 14px;
+  border-radius: 10px;
+  cursor: pointer;
+  transition: background 0.3s ease;
+}
+
+.modal-content .submit-button:hover {
+  background-color: #002244;
+}
+
+.close-button {
+  color: rgba(255, 255, 255, 0.7);
+  float: right;
+  font-size: 20px;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.close-button:hover {
+  color: #fff;
+}
+
+#submissionFeedback {
+  margin-top: 10px;
+  font-size: 14px;
+  text-align: center;
+}
+
+.feedback-success {
+  color: green;
+  margin-top: 10px;
+}
+
+.feedback-error {
+  color: red;
+  margin-top: 10px;
 }

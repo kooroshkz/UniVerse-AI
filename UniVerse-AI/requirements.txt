@@ -1,4 +1,4 @@
-django==5.1.2
+django==5.1.4
 celery==5.4.0
 django-celery-beat==2.7.0
 fuzzywuzzy==0.18.0
@@ -8,3 +8,4 @@ django-timezone-field==7.0
 whitenoise==6.8.2
 python-Levenshtein==0.26.1
 python-decouple==3.8
+beautifulsoup4==4.12.3

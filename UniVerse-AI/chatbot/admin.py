@@ -1,5 +1,5 @@
 from django.contrib import admin
-from .models import StaffMember
+from .models import StaffMember, CourseSchedule
 
 
 @admin.register(StaffMember)
@@ -14,3 +14,11 @@ class StaffMemberAdmin(admin.ModelAdmin):
         queryset.update(role='Not Assigned')
         self.message_user(request, "Selected roles were reset to 'Not Assigned'.")
     reset_role.short_description = 'Reset Role for Selected Staff Members'
+
+
+@admin.register(CourseSchedule)
+class CourseScheduleAdmin(admin.ModelAdmin):
+    list_display = ('course_name', 'course_type', 'start_time', 'end_time', 'locations', 'staffs')
+    search_fields = ('course_name', 'course_type', 'locations', 'staffs')
+    list_filter = ('course_type', 'start_time', 'end_time')
+    ordering = ('-start_time',)

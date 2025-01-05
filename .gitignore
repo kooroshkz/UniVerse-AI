@@ -1,3 +1,10 @@
-*.pyc
-__pycache__/
+# Ignore SQLite database
+db.sqlite3
+
+# Ignore environment files
 .env
+
+# Ignore Django secret keys or credentials
+*/__pycache__/
+*.pyc
+*.pyo

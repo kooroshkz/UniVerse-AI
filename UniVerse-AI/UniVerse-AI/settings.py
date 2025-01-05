@@ -15,6 +15,8 @@ import os
 from decouple import config
 
 OPENAI_API_KEY_LEIDEN = config("OPENAI_API_KEY_LEIDEN", default=None)
+GOOGLE_API_KEY = config("GOOGLE_API_KEY", default=None)
+GOOGLE_CX = config("GOOGLE_CX", default=None)
 
 
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
@@ -24,7 +26,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 # See https://docs.djangoproject.com/en/5.1/howto/deployment/checklist/
 
 # SECURITY WARNING: keep the secret key used in production secret!
-SECRET_KEY = 'django-insecure-_^5r!p#zivccfp+atigp^1r&=4!7m-5be38vd4c-4&l)86))x7'
+SECRET_KEY = config("DJANGO_SECRET_KEY", default=None)
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True  # Set to False for production
@@ -129,8 +131,9 @@ STATIC_ROOT = BASE_DIR / 'staticfiles'
 
 # Include multiple static directories
 STATICFILES_DIRS = [
-    BASE_DIR / 'chatbot/static',  # Retain for the chatbot app
-    BASE_DIR / 'lucalendar/static',  # Add this for lucalendar
+    BASE_DIR / 'chatbot/static',
+    BASE_DIR / 'lucalendar/static',
+    BASE_DIR / 'landing/static',
 ]
 
 

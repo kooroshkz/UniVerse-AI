@@ -13,3 +13,14 @@ class StaffMember(models.Model):
 
     def __str__(self):
         return self.name
+
+class CourseSchedule(models.Model):
+    course_name = models.CharField(max_length=255)
+    course_type = models.CharField(max_length=50)
+    start_time = models.DateTimeField()
+    end_time = models.DateTimeField()
+    locations = models.TextField()
+    staffs = models.TextField()
+
+    def __str__(self):
+        return f"{self.course_name} ({self.course_type})"
