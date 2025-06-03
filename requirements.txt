@@ -1,4 +1,4 @@
-django==5.1.8
+django
 celery==5.4.0
 django-celery-beat==2.7.0
 fuzzywuzzy==0.18.0
